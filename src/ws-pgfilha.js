@@ -8,7 +8,7 @@
 const axios = require('axios');
 const cheerio = require('cheerio');
 
-const urlfilho = 'teste';
+const urlfilho = 'https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria/2023/04/governo-federal-garante-repasse-adicional-de-r-2-bilhoes-para-assegurar-assistencia-em-entidades-filantropicas';
 
 axios.get(urlfilho)
 .then(resp=>{
