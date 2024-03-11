@@ -1,95 +1,5 @@
 id,parentId,name,position,lotacao,image
 0,,ANA CAROLINA DE SOUZA OLIVEIRA,DIRETOR REGIONAL,SE/MG,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-1,0,WEMERSON DA SILVA,ASSESSOR TECNICO REGIONAL - G1,SE/MG,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-2,0,JOSIMAR DE CASTRO,ASSESSOR TECNICO REGIONAL - G1,SE/MG,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-3,0,IVANA DE MATOS OLIVEIRA,CHEFE DE SECAO,SE/MG,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-4,0,RENATO ALVES DOS SANTOS,CHEFE DE SECAO,SE/MG,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-5,0,ISABELA LEOPOLDINO,GERENTE ATIVIDADE - CTC TP IV - G1,CCOM,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-6,0,GABRIELA RESENDE GONCALVES,CHEFE DE SECAO,CCOM,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-7,0,FABRICIO ANGELO DE OLIVEIRA,COORDENADOR REG DE NEGOCIOS ,CONEG,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-8,7,GLEICIANE CRISTINA PEREIRA DE ABREU,GERENTE,GECOM,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-9,8,SILVIO NEVES DE OLIVEIRA,ASSISTENTE COMERCIAL III,SUCOM1,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-10,8,ROBSON FABIANO MOREIRA,ASSISTENTE COMERCIAL III - G1,SUCOM1,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-11,8,MARCIO PEREIRA ROCHA,ASSISTENTE COMERCIAL III,SUCOM1,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-12,8,PAULA MENDES DOS SANTOS FRIGATTO,ASSISTENTE COMERCIAL III - G1,SUCOM1,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-13,8,PEDRO HENRIQUE TOCAFUNDO DE MELO,ASSISTENTE COMERCIAL III,SUCOM1,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-14,8,LUIS FELIPE RIBEIRO DORNELLAS,ASSISTENTE COMERCIAL III,SUCOM1,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-15,8,FABRICIO HENRIQUE DE OLIVEIRA,ASSISTENTE COMERCIAL II - G1,SUCOM1,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-16,8,RONEY MARINHO LIMA,ASSISTENTE COMERCIAL II - G1,SUCOM1,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-17,8,KRISTIANNE SANTANA DE SOUZA,ASSISTENTE COMERCIAL III,SUCOM1,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-18,8,MILENE MOREIRA DA SILVA,ASSISTENTE COMERCIAL III,SUCOM1,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-19,8,HENRIQUE HIRLE MALTAS DE AGUIAR,ASSISTENTE COMERCIAL III,SUCOM1,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-20,8,TASSIO FERNANDO DE SOUZA,ASSISTENTE COMERCIAL III,SUCOM1,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-21,8,MAHINE NASCIMENTO LUZIA LIMA,ASSISTENTE COMERCIAL II - G1,SUCOM1,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-22,8,FABIO EMANUEL DA MOTA MEDEIROS,ASSISTENTE COMERCIAL III,SUCOM1,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-23,8,THIAGO DE OLIVEIRA ROCHA,SUBGERENTE - G1,SUCOM1,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-24,8,BRUNO CURTISS DOS SANTOS,ASSISTENTE COMERCIAL III,SUCOM1,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-25,8,CLAUDIA MENDES GOMES,ASSISTENTE COMERCIAL III,SUCOM2,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-26,8,FABIO STENIO CASTRO SOUZA,ASSISTENTE COMERCIAL II - G1,SUCOM2,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-27,8,YARA MIRANDA DIAS RIBEIRO,ASSISTENTE COMERCIAL III - G1,SUCOM2,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-28,8,ANDREIA DE FATIMA BATISTA CORREA,ASSISTENTE COMERCIAL III,SUCOM2,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-29,8,JOSEANE DE FATIMA CARDOSO SOUZA,SUBGERENTE - G1,SUCOM2,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-30,8,MARCO AURELIO RODRIGUES BRAGA,ASSISTENTE COMERCIAL III,SUCOM2,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-31,8,DANIELA APARECIDA NASCIMENTO KOHL,ASSISTENTE COMERCIAL III - G1,SUCOM2,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-32,8,ANDREIA APARECIDA MACHADO DOS SANTOS,ASSISTENTE COMERCIAL III - G1,SUCOM2,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-33,8,ROSANIA APARECIDA LOPES MARTINS,ASSISTENTE COMERCIAL II,SUCOM2,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-34,8,JULIANA GERALDA MARQUES DE MENEZES RODRIGUES,ASSISTENTE COMERCIAL III - G1,SUCOM2,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-35,8,PATRICIA JAYSONN FELIX,ASSISTENTE COMERCIAL III - G1,SUCOM2,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-36,8,ROGERIO DE PAULO OLIVEIRA,ASSISTENTE COMERCIAL III - G1,SUCOM2,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-37,8,DANIELA MARIA DA SILVA FERREIRA,ASSISTENTE COMERCIAL III - G1,SUCOM2,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-38,8,JOSE SOARES FURTADO JUNIOR,ASSISTENTE COMERCIAL III,SUCOM2,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-39,8,FLAVIO DE SOUSA BARRETO,ASSISTENTE COMERCIAL III - G1,SUCOM2,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-40,7,ADRIANE RIGHI DE CASTRO SOUZA,ASSISTENTE COMERCIAL I,GEDEM,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-41,7,SIMONE CALDEIRA BRAGA,GERENTE,GEDEM,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-42,41,GERALDO MAGELA BATISTA,CHEFE DE SECAO,SPIV,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-43,41,VALERIA CECILIA ROCHA VILELA,ASSISTENTE DE COMERCIO EXTERIOR,SUDEM,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-44,41,PATRICIA MARTINS SANTOS,SUBGERENTE,SUDEM,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-45,41,LARISSE DO CARMO PEIXOTO,ASSISTENTE COMERCIAL III,SUDEM,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-46,41,PRISCILA RODRIGUES DOS SANTOS,ASSISTENTE COMERCIAL III,SUDEM,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-47,46,ANDREIA DE ALMEIDA,CHEFE DE SECAO - G1,SUDEM/SPRO,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-48,7,ANA ALICE BASTOS DE SOUZA,GERENTE,GESUP,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-49,48,LANDULFO SALVADOR PANZERA DE REZENDE,SUBGERENTE - G1,SUCAC,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-50,49,GERALDO MAGELA FERREIRA DA CRUZ,CHEFE DE SECAO - G1,SUCAC/SCAV,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-51,49,DEBORA MARGARIDA DE SOUZA AYRES,SUPERVISOR DE TELEATENDIMENTO - CAC - G1,SUCAC/SCAV,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-52,49,ENILSON LUCIANO DA ROCHA SILVA,CHEFE DE SECAO,SUCAC/SEAC,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-53,49,PATRIKI VICTOR DE MENDONCA DUTRA,CHEFE DE SECAO - G1,SUCAC/SGEQ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-54,49,EVERTON DJALMA DOS SANTOS,SUPERVISOR DE TELEATENDIMENTO - CAC,SUCAC/SGEQ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-55,49,RITA DE CASSIA LOURES CHAVES,SUPERVISOR DE TELEATENDIMENTO - CAC,SUCAC/SPAT1,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-56,49,ADRIANA MARIA DOS SANTOS,SUPERVISOR DE TELEATENDIMENTO - CAC,SUCAC/SPAT1,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-57,49,LUCINEA PEREIRA CAMPOS,SUPERVISOR DE TELEATENDIMENTO - CAC,SUCAC/SPAT1,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-58,49,AMILTON DA SILVA VIEIRA JUNIOR,SUPERVISOR DE TELEATENDIMENTO - CAC,SUCAC/SPAT1,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-59,49,MARLONE GEOVANNI DA SILVA BORGES,CHEFE DE SECAO,SUCAC/SPAT1,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-60,49,ANDERSON DE PAIVA COELHO,SUPERVISOR DE TELEATENDIMENTO - CAC,SUCAC/SPAT1,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-61,49,SIMONE DE FATIMA SIQUEIRA FERRAO,SUPERVISOR DE TELEATENDIMENTO - CAC,SUCAC/SPAT1,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-62,49,MAGDA MARIA GARCIA DE SOUZA,SUPERVISOR DE TELEATENDIMENTO - CAC - G1,SUCAC/SPAT1,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-63,49,DEBORA CRISTINA COSTA MILAGRES ROMAN,SUPERVISOR DE TELEATENDIMENTO - CAC,SUCAC/SPAT2,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-64,49,AMALYA RAQUEL MILAGRES,SUPERVISOR DE TELEATENDIMENTO - CAC,SUCAC/SPAT2,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-65,49,JOSE DIMAS DE SOUZA MENEGHIN II,SUPERVISOR DE TELEATENDIMENTO - CAC,SUCAC/SPAT2,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-66,49,SUZI DO ROSARIO JANUARIO,SUPERVISOR DE TELEATENDIMENTO - CAC,SUCAC/SPAT2,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-67,49,MARIANA DA SILVA BARROS,CHEFE DE SECAO - G1,SUCAC/SPAT2,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-68,49,LIDIANE ROSA CUSTODIO LIMA,SUPERVISOR DE TELEATENDIMENTO - CAC,SUCAC/SPAT2,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-69,49,VANESSA DOMINGOS,SUPERVISOR DE TELEATENDIMENTO - CAC,SUCAC/SPAT2,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-70,49,ALCIONE DE ASSIS VALE,SUPERVISOR DE TELEATENDIMENTO - CAC,SUCAC/SPAT2,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-71,7,CAMILLA LUIZ GUIMARAES,ASSISTENTE COMERCIAL I,GEVEN,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-72,7,JEAN CARLOS DE MELO,GERENTE - G1,GEVEN,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-73,7,EVANDRO VENANCIO SANTOS,ASSISTENTE COMERCIAL I,GEVEN,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-74,73,ALESSANDRA ARAUJO SILVA,CHEFE DE SECAO,SEAD,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-75,73,SILVIA APARECIDA DE FARIA,SUBGERENTE,SUVEN,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-76,73,ANA CAROLINA PORTUGAL BRETAS,ASSISTENTE COMERCIAL III - G1,SUVEN,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-77,73,ROZILEIA DOS ANJOS MOREIRA COELHO,ASSISTENTE COMERCIAL III,SUVEN,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-78,73,PALOMA LOURDES DAS CHAGAS,ASSISTENTE COMERCIAL III - G1,SUVEN,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-79,73,REBECA JORDAO DE CARVALHO,ASSISTENTE COMERCIAL III,SUVEN,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-80,73,ADILSON JOSE DA SILVA,ASSISTENTE COMERCIAL I - G1,SUVEN,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-81,73,MARLI FERREIRA DA SILVA,GERENTE DE CONTAS ESPECIAIS-DR,SUVEN,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-82,73,EDUARDO NETO KAPPEL,ASSISTENTE COMERCIAL I - G1,SUVEN,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-83,73,MARILIA VIEIRA,ASSISTENTE COMERCIAL III - G1,SUVEN,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-84,73,WALTER RODRIGUES DOS SANTOS JUNIOR,ASSISTENTE COMERCIAL III,SUVEN,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-85,73,LEIDE QUEIROS DE OLIVEIRA,GERENTE DE CONTAS ESPECIAIS-DR,SUVEN,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-86,73,MARCELO DA SILVA BATISTA,GERENTE DE CONTAS ESPECIAIS-DR,SUVEN,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-87,73,ADRIANA VELOSO JUNQUEIRA,ASSISTENTE COMERCIAL III - G1,SUVEN,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-88,73,ANDREA CRISTINE MEIRA TRINDADE,ASSISTENTE COMERCIAL I - G1,SUVEN,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-89,73,FLAVIA SILVA AGUILAR,ASSISTENTE COMERCIAL II - G1,SUVEN,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-90,73,CACILDA MARIA MOREIRA,ASSISTENTE COMERCIAL II - G1,SUVEN,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
 91,0,NEIMAR DE PAULA RIBEIRO,COORDENADOR REG DE OPERACOES,COPER,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/neimar.jpg
 92,91,FERNANDO GARCIA FERREIRA,GERENTE ATIVIDADE - CTC TP IV,CPDO,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/fernandogarcia.jpg
 93,92,ROBERTO CALDEIRA FLORES JUNIOR,CHEFE DE SECAO,CPDO/SPDO,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
@@ -162,9 +72,9 @@ id,parentId,name,position,lotacao,image
 104,103,JULIANO LEITE DE CARVALHO,CHEFE DE SECAO,SUPDI/SDIC,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
 105,103,ALETUZA DE JESUS MACEDO,CHEFE DE SECAO,SUPDI/SPDI,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
 106,91,MARCELO PIMENTA DE MIRANDA,GERENTE,GELOG,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-107,106,JOSY ELLEN CAETANO DOS SANTOS PEREIRA,CHEFE DE SECAO,SADM,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-108,106,HERCULES RONDINELLE REIS DE CASTRO,SUBGERENTE,SUGOL,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-109,106,MARIA DA CONSOLACAO BOAVENTURA,SUBGERENTE,SUPLL,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+107,106,JOSY ELLEN CAETANO DOS SANTOS PEREIRA,CHEFE DE SECAO,GELOG/SADM,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+108,106,HERCULES RONDINELLE REIS DE CASTRO,SUBGERENTE,GELOG/SUGOL,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+109,106,MARIA DA CONSOLACAO BOAVENTURA,SUBGERENTE,GELOG/SUPLL,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
 110,91,AYALA TATIANA TEIXEIRA DE CARVALHO,GERENTE,GERAT,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
 235,110,DANIELLE RODRIGUES DIAS,GERENTE ATIVIDADE - CTC TP IV,REATE01,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
 232,235,SILVIA PEREIRA,COORDENADOR DE ATENDIMENTO I,REATE01/COORD.,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
@@ -285,34 +195,4 @@ id,parentId,name,position,lotacao,image
 142,134,FERNANDO MAIA ALVES,SUBGERENTE,SUPTT,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
 143,142,VAGNER DE OLIVEIRA PAULO,CHEFE DE SECAO,SUPTT/SGCO,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
 144,142,FABIO EDUARDO REIS SILVA,CHEFE DE SECAO,SUPTT/SPTT,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-145,0,CLELTON VIEIRA DOS SANTOS,COORDENADOR REG DE SUPORTE,COSUP,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-146,145,EMERSON COSTA FERNANDES,GERENTE,GEPAS,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-147,145,MARCO ANTONIO DE SENA E SOUZA,CHEFE DE SECAO - G1,GEPAS,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-148,147,FERNANDA DIAS DA ROCHA RAMOS,CHEFE DE SECAO,SBEI,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-149,147,VIVIANE AUGUSTA OLIVEIRA LAGE,CHEFE DE SECAO,SBEM,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-150,147,ANTONIETA ALVES VIANA DE LIMA BARRETO,SUPERVISOR,SBEM,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-151,147,EDUARDO DA SILVA SOARES FILHO,CHEFE DE SECAO,SEGD,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-152,147,MARILENE MAROTA DE SOUZA,CHEFE DE SECAO,SESG,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-153,145,BIANCA MARIA PEREIRA FIUZA,GERENTE,GEPES,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-154,153,KAMILA VELOSO COURA,INSTRUTOR I-DR - G1,SGEDC,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-155,153,TATIANA FERRAZ COSTA,CHEFE DE SECAO,SGEDC,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-156,153,FRANCISLAINE GRAZIELLE GERMANO,INSTRUTOR I-DR - G1,SGEDC,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-157,153,MARJORYE SOARES DE OLIVEIRA MATALINARES,INSTRUTOR II-DR - G1,SGEDC,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-158,153,DIOGO SENA AMARAL,INSTRUTOR I-DR - G1,SGEDC,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-159,153,ROSANA APARECIDA LEANDRO DA SILVA,SUBGERENTE - G1,SGEDC,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-160,153,EDIR WILSON OLIVEIRA SANTOS,INSTRUTOR I-DR - G1,SGEDC,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-161,153,ANDREIA CARLA CARNEIRO KAIZER,INSTRUTOR II-DR - G1,SGEDC,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-162,153,FLAVIO DANIEL FERREIRA,SUBGERENTE,SGGPE,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-163,153,FLAVIA FONSECA MACHADO,CHEFE DE SECAO - G1,SGREO,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-164,153,HENRIQUE LISBOA AGUILAR,CHEFE DE SECAO - G1,SGREO,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-165,153,VINICIUS CONSTANTINO DE MEDEIROS,SUBGERENTE,SGREO,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-166,153,SIMONE DA SILVA MOREIRA,SUPERVISOR,SGSMT,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-167,153,FLAVIA GOMES OLIVEIRA VILLARIM,CHEFE DE SECAO,SGSMT,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-168,153,LUCIARA DA CONCEICAO TOMAZ,SUBGERENTE,SGSMT,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-169,153,DEBORA FERREIRA SILVA,CHEFE DE SECAO - G1,SGSMT,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-170,145,VALTER JOSE SILVA,GERENTE,GEREN,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-171,170,RICARDO CESAR ALVES SILVEIRA,CHEFE DE SECAO,SEPO,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-172,170,GRAZIELLE CRISTINE ANICETO VIEIRA MARTIN,CHEFE DE SECAO,SEPR,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-173,170,JUCINARA HERCULANO MERQUIADES,CHEFE DE SECAO,SMAE,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-174,170,SANDRA REGINA DA SILVA PEREIRA,CHEFE DE SECAO,SMAP,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
 95,94,JOSE HENRIQUE DE CASTRO MAGALHAES,CHEFE DE SECAO,GEDIS,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
