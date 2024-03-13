@@ -196,259 +196,207 @@ id,parentId,name,position,lotacao,image
 314,316,LUIZ ALBERTO SMANIO JUNIOR,COORDENADOR DE VENDAS I,REATE13/COORD.,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
 315,316,PAULO ROBERTO ABREU DA SILVA,COORDENADOR DE ATENDIMENTO I,REATE13/COORD.,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
 316,110,EDMAR JOSE FERREIRA,GERENTE ATIVIDADE - CTC TP IV,REATE13,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-317,134,ALEXANDRE PIERRE TEIXEIRA DE SOUZA,GERENTE C.T.CART.ENCOM. TP III,CTCE BELO HORIZONTE,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-318,319,MARILSON MARIO DOS SANTOS,COORDENADOR/UO,CTCE BELO HORIZONTE/GCCAP,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-319,317,DANIEL AUGUSTO OLIVEIRA SILVA,GERENTE ATIVIDADE - CTCE TP III,CTCE BELO HORIZONTE/GCCAP,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-320,319,GIULLIARDI JUNIO COSTA,COORDENADOR/UO,CTCE BELO HORIZONTE/GCCAP,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-321,319,AMANDA MOREIRA LINCOLN,COORDENADOR/UO,CTCE BELO HORIZONTE/GCCAP,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-322,319,NATALIA FERNANDES DE MATOS,COORDENADOR/UO,CTCE BELO HORIZONTE/GCCAP,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-323,317,CRISTIANO CARNEIRO SANTOS,GERENTE ATIVIDADE - CTCE TP III,CTCE BELO HORIZONTE/GCOPE,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-324,323,KAMYLA DE SOUZA SIQUEIRA,COORDENADOR/UO,CTCE BELO HORIZONTE/GCOPE,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-325,323,CLAUDINEIDE DE SOUZA COSTA,COORDENADOR/UO,CTCE BELO HORIZONTE/GCOPE,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-326,323,ROSILENE SAAR XAVIER,COORDENADOR/UO,CTCE BELO HORIZONTE/GCOPE,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-327,330,JULIO CESAR PESSOA GOMES,COORDENADOR/UO,CTCE BELO HORIZONTE/GEENC,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-328,330,EDMILSON GOMES DA SILVA,COORDENADOR/UO,CTCE BELO HORIZONTE/GEENC,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-329,330,ISMAEL ANGELO DA SILVA,OPERADOR DE EMPILHADEIRA,CTCE BELO HORIZONTE/GEENC,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-330,317,RAFAEL CANESTRI NETO,GERENTE ATIVIDADE - CTCE TP III,CTCE BELO HORIZONTE/GEENC,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-331,330,ALEXANDRE JOSE DE ARAUJO MARQUES,COORDENADOR/UO,CTCE BELO HORIZONTE/GEENC,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-332,330,EDINALDO MOREIRA TERTULIANO,OPERADOR DE EMPILHADEIRA,CTCE BELO HORIZONTE/GEENC,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-333,330,JUNIO MACENA PEREIRA,COORDENADOR/UO,CTCE BELO HORIZONTE/GEENC,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-334,317,KEDIMA GOMES DA SILVA PACHECO,COORDENADOR/UO,CTCE BELO HORIZONTE/GPLAQ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-335,317,FABRICIO RIBEIRO SENA,COORDENADOR/UO,CTCE BELO HORIZONTE/GPLAQ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-336,317,ALOISIO HENRIQUE DE FREITAS VIANA,GERENTE ATIVIDADE - CTCE TP III,CTCE BELO HORIZONTE/GPLAQ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-337,317,ROSSANI CRISTINA MARQUES E NASCIMENTO,COORDENADOR/UO,CTCE BELO HORIZONTE/GPLAQ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-338,343,OTACILIO FAGUNDES DO PRADO,OPERADOR DE EMPILHADEIRA,CTCE BELO HORIZONTE/GTURN1,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-339,343,ALUISIO ANTONIO PROFETA,OPERADOR DE EQUIP. DE SEGURANCA POSTAL,CTCE BELO HORIZONTE/GTURN1,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-340,343,ENALDO VAZ DE MELO,COORDENADOR/UO,CTCE BELO HORIZONTE/GTURN1,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-341,343,ALEXANDRE LOURENCO ALVES SOARES,COORDENADOR/UO,CTCE BELO HORIZONTE/GTURN1,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-342,343,MOACIR FERREIRA BATISTA,OPERADOR DE EMPILHADEIRA,CTCE BELO HORIZONTE/GTURN1,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-343,317,JAIRILDO DOS SANTOS DE OLIVEIRA,GERENTE ATIVIDADE - CTCE TP III,CTCE BELO HORIZONTE/GTURN1,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-344,343,FABIO MOREIRA DA SILVA,COORDENADOR/UO,CTCE BELO HORIZONTE/GTURN1,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-345,343,MARCELO DOS SANTOS HEREDIA,COORDENADOR/UO,CTCE BELO HORIZONTE/GTURN1,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-346,343,BRUNO NEVES DE BRITO ALMEIDA,COORDENADOR/UO,CTCE BELO HORIZONTE/GTURN1,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-347,343,ROSELI DE MATOS,COORDENADOR/UO,CTCE BELO HORIZONTE/GTURN1,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-348,343,FABIANO FRANCISCO DE OLIVEIRA,COORDENADOR/UO,CTCE BELO HORIZONTE/GTURN1,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-349,343,GLAZIANE DIAS DOS SANTOS,COORDENADOR/UO,CTCE BELO HORIZONTE/GTURN1,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-350,343,EDER ANTONIO DA SILVA,COORDENADOR/UO,CTCE BELO HORIZONTE/GTURN1,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-351,343,DAVIDSON LUIZ FERREIRA,OPERADOR DE EMPILHADEIRA,CTCE BELO HORIZONTE/GTURN1,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-352,343,BRUNO LEONARDO SILVA SANTOS,COORDENADOR/UO,CTCE BELO HORIZONTE/GTURN1,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-353,343,VITORINO LINO DE FIGUEIREDO,OPERADOR DE EMPILHADEIRA,CTCE BELO HORIZONTE/GTURN1,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-354,343,GILBERTO HONORIO ANDRE,COORDENADOR/UO,CTCE BELO HORIZONTE/GTURN1,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-355,343,ANDRE HENRIQUE DUARTE SILVA,COORDENADOR/UO,CTCE BELO HORIZONTE/GTURN1,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-356,343,EVERTON MACEDO,OPERADOR DE EMPILHADEIRA,CTCE BELO HORIZONTE/GTURN1,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-357,343,RODNEI JOSUE GONCALVES,OPERADOR DE EMPILHADEIRA,CTCE BELO HORIZONTE/GTURN1,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-358,343,ALBERT GEORGE RIBEIRO DE ASSIS,OPERADOR DE EMPILHADEIRA,CTCE BELO HORIZONTE/GTURN1,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-359,343,ALISSON ALVES LOPES,OPERADOR DE EMPILHADEIRA,CTCE BELO HORIZONTE/GTURN1,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-360,343,IVAN MAULAZ SILVA,COORDENADOR/UO,CTCE BELO HORIZONTE/GTURN1,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-361,343,LUCINEIA DA SILVA RODRIGUES RIBEIRO,COORDENADOR/UO,CTCE BELO HORIZONTE/GTURN1,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-362,343,ROGEL SIDON SANTIAGO,OPERADOR DE EMPILHADEIRA,CTCE BELO HORIZONTE/GTURN1,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-363,343,TIAGO ELIAS SOARES DE AGUIAR,OPERADOR DE EMPILHADEIRA,CTCE BELO HORIZONTE/GTURN1,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-364,343,SANZIO MARIO DE LACERDA,OPERADOR DE EQUIP. DE SEGURANCA POSTAL,CTCE BELO HORIZONTE/GTURN1,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-365,366,AMARILDO MANOEL DE MATOS,COORDENADOR/UO,CTCE BELO HORIZONTE/GTURN2,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-366,317,ALUISIO MARTINS DO CARMO,GERENTE ATIVIDADE - CTCE TP III,CTCE BELO HORIZONTE/GTURN2,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-367,366,ANDERSON DE OLIVEIRA PAULA,COORDENADOR/UO,CTCE BELO HORIZONTE/GTURN2,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-368,366,PAULO SERGIO DE MENDONCA,OPERADOR DE EMPILHADEIRA,CTCE BELO HORIZONTE/GTURN2,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-369,366,ADILSON ANTONIO NASCIMENTO,OPERADOR DE EMPILHADEIRA,CTCE BELO HORIZONTE/GTURN2,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-370,366,NILTON CESAR DE PAULA,COORDENADOR/UO,CTCE BELO HORIZONTE/GTURN2,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-371,366,EVERALDO BARBOSA DA CRUZ,OPERADOR DE EQUIP. DE SEGURANCA POSTAL,CTCE BELO HORIZONTE/GTURN2,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-372,366,LANDERSON PIRES SOARES,COORDENADOR/UO,CTCE BELO HORIZONTE/GTURN2,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-373,366,ALEXANDRE GALDINO SILVA,COORDENADOR/UO,CTCE BELO HORIZONTE/GTURN2,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-374,366,MARCOS VALERIO MARCELINO,OPERADOR DE EMPILHADEIRA,CTCE BELO HORIZONTE/GTURN2,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-375,366,GERALDO MAGELA VAZ DA SILVA,COORDENADOR/UO,CTCE BELO HORIZONTE/GTURN2,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-376,366,ARI DOS REIS VIEIRA,OPERADOR DE EMPILHADEIRA,CTCE BELO HORIZONTE/GTURN2,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-377,366,MARIA APARECIDA VIEIRA DE OLIVEIRA SILVA,COORDENADOR/UO,CTCE BELO HORIZONTE/GTURN2,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-378,366,JOSE JACINTO ALVES BARROSO,COORDENADOR/UO,CTCE BELO HORIZONTE/GTURN2,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-379,366,DOUGLAS MARTINS DA SILVA,OPERADOR DE EMPILHADEIRA,CTCE BELO HORIZONTE/GTURN2,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-380,366,GILSON DE ABREU,OPERADOR DE EMPILHADEIRA,CTCE BELO HORIZONTE/GTURN2,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-381,366,LEONARDO LISBOA VAZ,COORDENADOR/UO,CTCE BELO HORIZONTE/GTURN2,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-382,366,VANESSA CONCEICAO RODRIGUES DE ARAUJO,COORDENADOR/UO,CTCE BELO HORIZONTE/GTURN2,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-383,366,CARLOS EDUARDO LEMOS,COORDENADOR/UO,CTCE BELO HORIZONTE/GTURN2,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-384,366,VLADIMIR RICARDO MENDES DE MORAES,COORDENADOR/UO,CTCE BELO HORIZONTE/GTURN2,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-385,366,DOUGLAS DE OLIVEIRA ROSA,COORDENADOR/UO,CTCE BELO HORIZONTE/GTURN2,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-386,366,SILVIA APARECIDA RODRIGUES OLIVEIRA,COORDENADOR/UO,CTCE BELO HORIZONTE/GTURN2,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-387,366,FABIO ALEX CELY NUNES,OPERADOR DE EMPILHADEIRA,CTCE BELO HORIZONTE/GTURN2,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-388,366,AILTON ALVES RIBEIRO,OPERADOR DE EMPILHADEIRA,CTCE BELO HORIZONTE/GTURN2,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-389,366,MIRIAN CRISTINA DE PAULA COELHO,OPERADOR DE EQUIP. DE SEGURANCA POSTAL,CTCE BELO HORIZONTE/GTURN2,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-390,401,LUIZ CARLOS DE CARVALHO,OPERADOR DE EMPILHADEIRA,CTCE BELO HORIZONTE/GTURN3,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-391,401,JAIME SANTOS MEIRA,COORDENADOR/UO,CTCE BELO HORIZONTE/GTURN3,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-392,401,AGNALDO FERREIRA DAMASCENO,COORDENADOR/UO,CTCE BELO HORIZONTE/GTURN3,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-393,401,RICARDO PEREIRA,OPERADOR DE EMPILHADEIRA,CTCE BELO HORIZONTE/GTURN3,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-394,401,EDUARDO RAIMUNDO GONCALVES,OPERADOR DE EMPILHADEIRA,CTCE BELO HORIZONTE/GTURN3,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-395,401,ROBERTO DE OLIVEIRA BORGES,OPERADOR DE EMPILHADEIRA,CTCE BELO HORIZONTE/GTURN3,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-396,401,CLAUDIONOR SOARES VIANA JUNIOR,OPERADOR DE EMPILHADEIRA,CTCE BELO HORIZONTE/GTURN3,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-397,401,FLAVIO DA SILVA SIQUEIRA,OPERADOR DE EMPILHADEIRA,CTCE BELO HORIZONTE/GTURN3,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-398,401,MARCIO MOREIRA PRADO,COORDENADOR/UO,CTCE BELO HORIZONTE/GTURN3,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-399,401,WELLINGTON GOMES DA COSTA,COORDENADOR/UO,CTCE BELO HORIZONTE/GTURN3,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-400,401,MARLON HELENO COSTA,COORDENADOR/UO,CTCE BELO HORIZONTE/GTURN3,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-401,317,ALEXANDRE SEVERINO DE OLIVEIRA,GERENTE ATIVIDADE - CTCE TP III,CTCE BELO HORIZONTE/GTURN3,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-402,401,CARLOS EDUARDO LINO,COORDENADOR/UO,CTCE BELO HORIZONTE/GTURN3,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-403,401,LOURIVAL REIS RIBEIRO,COORDENADOR/UO,CTCE BELO HORIZONTE/GTURN3,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-404,401,EDWILSON LEMOS PEREIRA,COORDENADOR/UO,CTCE BELO HORIZONTE/GTURN3,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-405,401,CLAYTON SANTOS BATISTA,COORDENADOR/UO,CTCE BELO HORIZONTE/GTURN3,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-406,401,RICARDO HENRIQUE DA SILVA,OPERADOR DE EQUIP. DE SEGURANCA POSTAL,CTCE BELO HORIZONTE/GTURN3,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-407,317,JAQUELINE RIBEIRO PERACIO,CHEFE DE SECAO,CTCE BELO HORIZONTE/SEAO,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-408,413,JOSE SEVERINO SILVA,SUPERVISOR,CTCE BELO HORIZONTE/SEMA,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-409,413,JEFERSON BAZILIO GOMES,SUPERVISOR,CTCE BELO HORIZONTE/SEMA,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-410,413,ARNALDO ARCANJO BORGES,SUPERVISOR,CTCE BELO HORIZONTE/SEMA,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-411,413,CASSIUS FELIPE XAVIER GODOY,SUPERVISOR,CTCE BELO HORIZONTE/SEMA,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-412,413,GEIFFERSON MEIRELES URIAS PINTO,SUPERVISOR,CTCE BELO HORIZONTE/SEMA,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-413,317,CAIO WHEDEN DA COSTA,CHEFE DE SECAO,CTCE BELO HORIZONTE/SEMA,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-414,413,LUCIANO FLORA BARBOSA,SUPERVISOR,CTCE BELO HORIZONTE/SEMA,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-415,413,CHARLES FELIPE XAVIER GODOY,SUPERVISOR,CTCE BELO HORIZONTE/SEMA,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-416,413,DANIEL SANTOS CARVALHO,SUPERVISOR,CTCE BELO HORIZONTE/SEMA,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-417,413,RODOLFO DA SILVA FRANCISCO,SUPERVISOR,CTCE BELO HORIZONTE/SEMA,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-418,413,ELIAS DE ASSIS,SUPERVISOR,CTCE BELO HORIZONTE/SEMA,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-419,413,WARLEM ALVES FREITAS,SUPERVISOR,CTCE BELO HORIZONTE/SEMA,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-420,413,TIAGO SANTOS DE CARVALHO,SUPERVISOR,CTCE BELO HORIZONTE/SEMA,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-421,413,FREDERICO GOMES OLIVEIRA,SUPERVISOR,CTCE BELO HORIZONTE/SEMA,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-422,413,LUIZ CARLOS JUNIO DA SILVA ANTHERO,SUPERVISOR,CTCE BELO HORIZONTE/SEMA,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-423,413,BRUNO LINO MAIA,SUPERVISOR,CTCE BELO HORIZONTE/SEMA,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-424,413,VITOR JOSE STEHLING PEREIRA,SUPERVISOR,CTCE BELO HORIZONTE/SEMA,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-425,413,FILIPE CORREIA DA COSTA,SUPERVISOR,CTCE BELO HORIZONTE/SEMA,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-426,413,JOAQUIM LUIZ DE OLIVEIRA JUNIOR,SUPERVISOR,CTCE BELO HORIZONTE/SEMA,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-427,317,SILVANA DORIA,CHEFE DE SECAO,CTCE BELO HORIZONTE/SESU,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-428,429,JOAO BATISTA DE FREITAS,SUPERVISOR OPERACIONAL I,CDD VICOSA,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-429,211,ANDRE ANTONIO MANTOAN,GERENTE CENTRO DIST DOMIC TP I,CDD VICOSA,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-430,429,CIRO JOSE RAIMUNDO,SUPERVISOR OPERACIONAL I,CDD VICOSA,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-431,134,SANDRO FERNANDES,GERENTE C.T.CART.ENCOM. TP III,CTCE CONTAGEM,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-432,434,LUCIANA OLIVEIRA DINIZ,COORDENADOR/UO,CTCE CONTAGEM/GCOPE,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-433,434,MARCIA DE LURDES CORREA,COORDENADOR/UO,CTCE CONTAGEM/GCOPE,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-434,431,DOUGLAS FURIATTI DE SOUZA SILVA,GERENTE ATIVIDADE - CTCE TP III,CTCE CONTAGEM/GCOPE,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-435,438,VENILSO SOUZA LEITE,COORDENADOR/UO,CTCE CONTAGEM/GEENC,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-436,438,MAURI ALVES PEREIRA,COORDENADOR/UO,CTCE CONTAGEM/GEENC,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-437,438,CRISTIANO EUSTAQUIO LACERDA,COORDENADOR/UO,CTCE CONTAGEM/GEENC,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-438,431,ELIANE FREIRE MAGALHAES,GERENTE ATIVIDADE - CTCE TP III,CTCE CONTAGEM/GEENC,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-439,438,PATRICK CORDEIRO GUIMARAES,COORDENADOR/UO,CTCE CONTAGEM/GEENC,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-440,441,LILIANE PAULINARIA DE ARAUJO OLIVEIRA,COORDENADOR/UO,CTCE CONTAGEM/GPLAQ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-441,431,BRUNO RODRIGUES MOUTTA,GERENTE ATIVIDADE - CTCE TP III,CTCE CONTAGEM/GPLAQ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-442,449,ANANIAS ALVES AVELAR,OPERADOR DE EMPILHADEIRA,CTCE CONTAGEM/GTURN1,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-443,449,MISAEL FILGUEIRA MARTES,COORDENADOR/UO,CTCE CONTAGEM/GTURN1,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-444,449,EDSON LOURENCO DE LIMA,OPERADOR DE EMPILHADEIRA,CTCE CONTAGEM/GTURN1,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-445,449,PAULO CELSO GONCALVES VIANA,OPERADOR DE EMPILHADEIRA,CTCE CONTAGEM/GTURN1,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-446,449,CICERO ALVES DE SOUZA,OPERADOR DE EMPILHADEIRA,CTCE CONTAGEM/GTURN1,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-447,449,FLAVIO LUIS SILVA DE OLIVEIRA,COORDENADOR/UO,CTCE CONTAGEM/GTURN1,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-448,449,WANDERSON VIANA COSTA,OPERADOR DE EMPILHADEIRA,CTCE CONTAGEM/GTURN1,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-449,431,FABIANE DA SILVA OLIVEIRA GOULART,GERENTE ATIVIDADE - CTCE TP III,CTCE CONTAGEM/GTURN1,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-450,449,VALDIR ANTONIO PEREIRA JUNIOR,OPERADOR DE EMPILHADEIRA,CTCE CONTAGEM/GTURN1,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-451,449,IVO PIRES DA COSTA CAMPOS LEMOS,COORDENADOR/UO,CTCE CONTAGEM/GTURN1,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-452,449,MONICA MARIA PEREIRA ROSA,COORDENADOR/UO,CTCE CONTAGEM/GTURN1,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-453,449,JUNIA MARCIA CAETANO FERREIRA,COORDENADOR/UO,CTCE CONTAGEM/GTURN1,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-454,449,JOSE MARIA FERREIRA DE ALMEIDA,COORDENADOR/UO,CTCE CONTAGEM/GTURN1,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-455,449,CLAUDEMIR ANTONIO COSTA,OPERADOR DE EQUIP. DE SEGURANÇA POSTAL,CTCE CONTAGEM/GTURN1,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-456,449,BARBARA KELLY DE OLIVEIRA,COORDENADOR/UO,CTCE CONTAGEM/GTURN1,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-457,449,LUIZ FERNANDO DE ANDRADE,COORDENADOR/UO,CTCE CONTAGEM/GTURN1,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-458,449,MILTON JOSE MARQUES CORDEIRO,COORDENADOR/UO,CTCE CONTAGEM/GTURN1,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-459,449,SINARA CRISTINA ALMEIDA,SUBGERENTE LOGISTICA INTEGRADA II,CTCE CONTAGEM/GTURN1,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-460,449,DANIEL DE SOUSA MARQUES,COORDENADOR/UO,CTCE CONTAGEM/GTURN1,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-461,449,FERNANDA BRAZ CARDOSO,OPERADOR DE EQUIP. DE SEGURANÇA POSTAL,CTCE CONTAGEM/GTURN1,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-462,449,BREYNER SIMAO DE MACEDO,OPERADOR DE EMPILHADEIRA,CTCE CONTAGEM/GTURN1,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-463,449,ALEXANDRE SOARES DE JESUS,OPERADOR DE EQUIP. DE SEGURANÇA POSTAL,CTCE CONTAGEM/GTURN1,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-464,449,GUILHERME MARTINS SANTOS,COORDENADOR/UO,CTCE CONTAGEM/GTURN1,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-465,449,SHEILANE APARECIDA DE CARVALHO,COORDENADOR/UO,CTCE CONTAGEM/GTURN1,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-466,474,ELI JOSE PINTO,OPERADOR DE EMPILHADEIRA,CTCE CONTAGEM/GTURN2,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-467,474,CARLOS FERNANDO CARDOSO COSTA,OPERADOR DE EMPILHADEIRA,CTCE CONTAGEM/GTURN2,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-468,474,ANTONIO CARLOS DE BARROS,OPERADOR DE EMPILHADEIRA,CTCE CONTAGEM/GTURN2,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-469,474,JULIO CESAR DOS SANTOS,COORDENADOR/UO,CTCE CONTAGEM/GTURN2,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-470,474,CARLOS RENATO DA SILVA,COORDENADOR/UO,CTCE CONTAGEM/GTURN2,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-471,474,RICHARD ANTONY BARBOSA FELIX,COORDENADOR/UO,CTCE CONTAGEM/GTURN2,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-472,474,ANDERSON COSTA DE OLIVEIRA,COORDENADOR/UO,CTCE CONTAGEM/GTURN2,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-473,474,PAULO CESAR DINIZ MATOS,OPERADOR DE EMPILHADEIRA,CTCE CONTAGEM/GTURN2,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-474,431,ADAIR GOMES DE OLIVEIRA JUNIOR,GERENTE ATIVIDADE - CTCE TP III,CTCE CONTAGEM/GTURN2,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-475,474,ROBSON PEDRO DOS SANTOS,COORDENADOR/UO,CTCE CONTAGEM/GTURN2,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-476,474,VALFRANK ALVES DOS SANTOS,COORDENADOR/UO,CTCE CONTAGEM/GTURN2,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-477,474,CRISTIANO OLIVEIRA SANTOS,COORDENADOR/UO,CTCE CONTAGEM/GTURN2,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-478,474,GILVAN RODRIGUES FERREIRA,OPERADOR DE EMPILHADEIRA,CTCE CONTAGEM/GTURN2,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-479,474,ANDREIA RODRIGUES DE SOUZA FERREIRA,COORDENADOR/UO,CTCE CONTAGEM/GTURN2,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-480,474,RAQUEL APARECIDA SANTOS DE OLIVEIRA,OPERADOR DE EMPILHADEIRA,CTCE CONTAGEM/GTURN2,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-481,474,SOLANGE MARIANO DA SILVA,OPERADOR DE EMPILHADEIRA,CTCE CONTAGEM/GTURN2,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-482,474,LUIZ PAULO MOREIRA DE LIMA,OPERADOR DE EMPILHADEIRA,CTCE CONTAGEM/GTURN2,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-483,474,BRUNO RODRIGO DE SOUZA,COORDENADOR/UO,CTCE CONTAGEM/GTURN2,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-484,474,DAVID JACKSON SILVA DE OLIVEIRA,OPERADOR DE EMPILHADEIRA,CTCE CONTAGEM/GTURN2,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-485,474,VALME SANTOS DIAS,OPERADOR DE EQUIP. DE SEGURANÇA POSTAL,CTCE CONTAGEM/GTURN2,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-486,474,ROSEMIRO DE ASSIS MENDONCA,OPERADOR DE EQUIP. DE SEGURANÇA POSTAL,CTCE CONTAGEM/GTURN2,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-487,492,MIGUEL ARCANJO LOPES,COORDENADOR/UO,CTCE CONTAGEM/GTURN3,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-488,492,HEBERT JOSE DA ROCHA,COORDENADOR/UO,CTCE CONTAGEM/GTURN3,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-489,492,REGINALDO DA SILVA FERREIRA,COORDENADOR/UO,CTCE CONTAGEM/GTURN3,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-490,492,EDSON CARDOSO MIRANDA,COORDENADOR/UO,CTCE CONTAGEM/GTURN3,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-491,492,ALEXANDRE DE SOUZA NEGRI,COORDENADOR/UO,CTCE CONTAGEM/GTURN3,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-492,431,SEBASTIAO RIBEIRO DOS SANTOS FILHO,GERENTE ATIVIDADE - CTCE TP III,CTCE CONTAGEM/GTURN3,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-493,492,RENATO TELES MARQUES,COORDENADOR/UO,CTCE CONTAGEM/GTURN3,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-494,492,HELIO MARTINS DOS REIS,COORDENADOR/UO,CTCE CONTAGEM/GTURN3,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-495,492,MARCUS VINICIUS DA SILVA LIMA,COORDENADOR/UO,CTCE CONTAGEM/GTURN3,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-496,431,MARIA SUELI RAMOS DA ROCHA,CHEFE DE SECAO,CTCE CONTAGEM/SEAO,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-497,501,JONATHAS DOS SANTOS FONTES,SUPERVISOR,CTCE CONTAGEM/SEMA,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-498,501,ELIZABETE ASSIS DIAS MELO,SUPERVISOR,CTCE CONTAGEM/SEMA,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-499,501,ADRIANO CAMPOS MIRANDA,SUPERVISOR,CTCE CONTAGEM/SEMA,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-500,501,HALBERT CORNELIO MAYER,SUPERVISOR,CTCE CONTAGEM/SEMA,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-501,431,IGOR LEAL TEIXEIRA,CHEFE DE SECAO,CTCE CONTAGEM/SEMA,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-502,501,DIEGO BRUNO DE SOUZA SILVA,SUPERVISOR,CTCE CONTAGEM/SEMA,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-503,501,OROMAR JORGE DE OLIVEIRA FILHO,SUPERVISOR,CTCE CONTAGEM/SEMA,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-504,501,GLAUBER TIAGO DE SOUSA,SUPERVISOR,CTCE CONTAGEM/SEMA,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-505,501,LEONARDO PEREIRA DE SOUZA,SUPERVISOR,CTCE CONTAGEM/SEMA,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-506,501,ROBSON ANTONIO GERALDO DOS SANTOS,SUPERVISOR,CTCE CONTAGEM/SEMA,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-507,501,LUIZ FERNANDO MENDES,SUPERVISOR,CTCE CONTAGEM/SEMA,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-508,501,DANIELLA CRISTINA PEIXOTO DE SOUZA,SUPERVISOR,CTCE CONTAGEM/SEMA,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-509,501,CLEITON DA SILVA LESSA,SUPERVISOR,CTCE CONTAGEM/SEMA,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-510,431,VERONICA LOUBACK DE ALMEIDA,CHEFE DE SECAO,CTCE CONTAGEM/SESU,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-511,106,ELIANE LEAL RIBEIRO,SUBGERENTE LOGISTICA INTEGRADA II,CLI TJ MG,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-512,513,ALESSANDRO PAULO DE LIMA,SUPERVISOR OPERACIONAL II,CDD BARREIRO,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-513,181,BRUNO HENRIQUE DE CASTRO ALVES DOS SANTOS,GERENTE CENTRO DIST DOMIC TP II,CDD BARREIRO,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-514,513,VICTOR AMORIM DOS SANTOS,SUPERVISOR OPERACIONAL II,CDD BARREIRO,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-515,181,RODRIGO RIBEIRO FERREIRA,GERENTE CENTRO DIST DOMIC TP I,CDD BARRO PRETO,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-516,515,ADRIANO GONZAGA DE MELO,SUPERVISOR OPERACIONAL I,CDD BARRO PRETO,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-517,515,CHRYSTIELLE BARBOSA XAVIER COSTA NASCIMENTO,SUPERVISOR OPERACIONAL I,CDD BARRO PRETO,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-518,181,HUDSON TADEU CANDIDO,GERENTE CENTRO DIST DOMIC TP II,CDD BELO HORIZONTE,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-519,518,LIBERIO ALBINO MAGALHAES,SUPERVISOR OPERACIONAL II,CDD BELO HORIZONTE,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-520,518,RITA DE CASSIA BENTO,SUPERVISOR OPERACIONAL II,CDD BELO HORIZONTE,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-521,518,BRENNER DOUGLAS TEIXEIRA BARROSO,SUPERVISOR OPERACIONAL II,CDD BELO HORIZONTE,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-522,525,WALEY HENRIQUE DA COSTA MOREIRA,SUPERVISOR OPERACIONAL II,CDD BELO HORIZONTE LESTE,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-523,525,LEONARDO MARTINS BENTO,SUPERVISOR OPERACIONAL II,CDD BELO HORIZONTE LESTE,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-524,525,ELANE PEREIRA CRAMER,SUPERVISOR OPERACIONAL II,CDD BELO HORIZONTE LESTE,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-525,181,JOSEPH ALVES GOMES,GERENTE CENTRO DIST DOMIC TP II,CDD BELO HORIZONTE LESTE,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-526,529,JOSE ERNANI SILVA PINTO,SUPERVISOR OPERACIONAL II,CDD BELO HORIZONTE NORTE,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-527,529,SIDNEY FIGUEIREDO ROSA,SUPERVISOR OPERACIONAL II,CDD BELO HORIZONTE NORTE,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-528,529,REGISLAINE DA PIEDADE FERREIRA,SUPERVISOR OPERACIONAL II,CDD BELO HORIZONTE NORTE,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-529,181,ALEX MARCIO DE CARVALHO,GERENTE CENTRO DIST DOMIC TP II,CDD BELO HORIZONTE NORTE,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-530,181,SILAS AUGUSTO GONCALVES NOGUEIRA,GERENTE CENTRO DIST DOMIC TP I,CDD BELO HORIZONTE OESTE,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-531,530,GUSTAVO LACERDA FERREIRA,SUPERVISOR OPERACIONAL I,CDD BELO HORIZONTE OESTE,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-532,530,JACIANY FRANCISCA MARQUES DA SILVA,SUPERVISOR OPERACIONAL I,CDD BELO HORIZONTE OESTE,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-533,181,WELERSON D ASCENCAO SILVA,GERENTE CENTRO DIST DOMIC TP I,CDD BELO HORIZONTE SUL,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-534,533,ARILDO CARDOSO FERREIRA,SUPERVISOR OPERACIONAL I,CDD BELO HORIZONTE SUL,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-535,533,HUGO AUGUSTO TOMELIN,SUPERVISOR OPERACIONAL I,CDD BELO HORIZONTE SUL,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-536,181,WILLIAM BORGES DE SOUZA,GERENTE CENTRO DIST DOMIC TP II,CDD CALAFATE,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-537,536,ROGERIO RAIMUNDO NONATO,SUPERVISOR OPERACIONAL II,CDD CALAFATE,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-538,536,ADRIANA GARCIA DE SOUZA PINTO,SUPERVISOR OPERACIONAL II,CDD CALAFATE,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-539,536,GILMAR ALVES COSTA SANTOS,SUPERVISOR OPERACIONAL II,CDD CALAFATE,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-540,181,WANDERSON RODRIGUES DO NASCIMENTO EUGENIO,GERENTE CENTRO DIST DOMIC TP I,CDD FLORESTA,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-541,540,ANDRE ABRAHAO CARDOSO,SUPERVISOR OPERACIONAL I,CDD FLORESTA,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-542,540,ALIPIO WANDERLEY ARAUJO DOS SANTOS,SUPERVISOR OPERACIONAL I,CDD FLORESTA,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-543,181,MATEUS LUCAS MATOSO,GERENTE CENTRO DIST DOMIC TP I,CDD GLORIA,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-544,543,MARIA APARECIDA PINHEIRO DOMINGUES,SUPERVISOR OPERACIONAL I,CDD GLORIA,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-545,543,FABIO HENRIQUE DOS SANTOS,SUPERVISOR OPERACIONAL I,CDD GLORIA,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-546,181,SIMONE NUNES DA COSTA,GERENTE CENTRO DIST DOMIC TP I,CDD GUARANI,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-547,546,WALISSON SANTOS SOUZA DA ANUNCIACAO,SUPERVISOR OPERACIONAL I,CDD GUARANI,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-548,546,JAMIR PENA JUNIOR,SUPERVISOR OPERACIONAL I,CDD GUARANI,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-549,550,DENIS ASSIS DE FARIA,SUPERVISOR OPERACIONAL I,CDD JARAGUA,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-550,181,GISLENE GONCALVES DE JESUS,GERENTE CENTRO DIST DOMIC TP I,CDD JARAGUA,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-551,550,MARIA DA PIEDADE SOUSA MONTEIRO,SUPERVISOR OPERACIONAL I,CDD JARAGUA,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-552,553,FLORINDO BARBOSA DE SOUSA,SUPERVISOR OPERACIONAL I,CDD PLANALTO,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-553,181,BRUNO DE CASTRO GOMES,GERENTE CENTRO DIST DOMIC TP I,CDD PLANALTO,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-554,553,MARCOS PRATES DOS SANTOS,SUPERVISOR OPERACIONAL I,CDD PLANALTO,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-555,181,FABIANO JOSE GABRIEL FAGUNDES,GERENTE CENTRO DIST DOMIC TP I,CDD SAGRADA FAMILIA,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-556,555,GREGORY FELIPE SOUTO SILVA,SUPERVISOR OPERACIONAL I,CDD SAGRADA FAMILIA,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-557,555,JUNIO AGUIAR DA SILVA,SUPERVISOR OPERACIONAL I,CDD SAGRADA FAMILIA,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-558,181,CLEUMAR FIGUEIREDO MEDEIROS,GERENTE CENTRO DIST DOMIC TP I,CDD SANTA EFIGENIA,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-559,558,ANDREISON FRANCISCO PEREIRA,SUPERVISOR OPERACIONAL I,CDD SANTA EFIGENIA,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-560,558,LUCIANO SOARES DOS SANTOS,SUPERVISOR OPERACIONAL I,CDD SANTA EFIGENIA,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-561,562,MARCO AURELIO ALVES LACERDA,SUPERVISOR OPERACIONAL I,CDD SION,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-562,181,FABIO JOSE DA SILVA,GERENTE CENTRO DIST DOMIC TP I,CDD SION,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-563,562,REINALDO OLIVEIRA DE ARAUJO,SUPERVISOR OPERACIONAL I,CDD SION,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-564,567,ROBERTO CARLOS DA COSTA,SUPERVISOR OPERACIONAL III,CDD TIROL,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-565,567,LUIZ MARCIO DE OLIVEIRA FREITAS,SUPERVISOR OPERACIONAL III,CDD TIROL,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-566,567,EDSON FRANCISCO DA SILVA,SUPERVISOR OPERACIONAL III,CDD TIROL,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-567,181,DANIELA DA SILVA GULARTE,GERENTE CENTRO DIST DOMIC TP III,CDD TIROL,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-568,567,ESDRAS HENRIQUE SOUSA PINTO,SUPERVISOR OPERACIONAL III,CDD TIROL,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-569,571,CESAR ROGERIO LOPES,SUPERVISOR OPERACIONAL III,CDD VENDA NOVA,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-570,571,ROGERIO ANDERSON DA COSTA,SUPERVISOR OPERACIONAL III,CDD VENDA NOVA,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-571,181,GEAM ALVES PACHECO,GERENTE CENTRO DIST DOMIC TP III,CDD VENDA NOVA,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-572,571,ANA PAULA ALVES BARBOSA FRAGA,SUPERVISOR OPERACIONAL III,CDD VENDA NOVA,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+317,134,ALEXANDRE PIERRE TEIXEIRA DE SOUZA,GERENTE C.T.CART.ENCOM. TP III,CTCE BELO HORIZONTE           ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+318,319,MARILSON MARIO DOS SANTOS,COORDENADOR/UO,CTCE BELO HORIZONTE/GCCAP     ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+319,317,DANIEL AUGUSTO OLIVEIRA SILVA,GERENTE ATIVIDADE - CTCE TP III,CTCE BELO HORIZONTE/GCCAP     ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+320,319,GIULLIARDI JUNIO COSTA,COORDENADOR/UO,CTCE BELO HORIZONTE/GCCAP     ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+321,319,AMANDA MOREIRA LINCOLN,COORDENADOR/UO,CTCE BELO HORIZONTE/GCCAP     ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+322,319,NATALIA FERNANDES DE MATOS,COORDENADOR/UO,CTCE BELO HORIZONTE/GCCAP     ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+323,317,CRISTIANO CARNEIRO SANTOS,GERENTE ATIVIDADE - CTCE TP III,CTCE BELO HORIZONTE/GCOPE     ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+324,323,KAMYLA DE SOUZA SIQUEIRA,COORDENADOR/UO,CTCE BELO HORIZONTE/GCOPE     ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+325,323,CLAUDINEIDE DE SOUZA COSTA,COORDENADOR/UO,CTCE BELO HORIZONTE/GCOPE     ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+326,323,ROSILENE SAAR XAVIER,COORDENADOR/UO,CTCE BELO HORIZONTE/GCOPE     ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+327,330,JULIO CESAR PESSOA GOMES,COORDENADOR/UO,CTCE BELO HORIZONTE/GEENC     ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+328,330,EDMILSON GOMES DA SILVA,COORDENADOR/UO,CTCE BELO HORIZONTE/GEENC     ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+330,317,RAFAEL CANESTRI NETO,GERENTE ATIVIDADE - CTCE TP III,CTCE BELO HORIZONTE/GEENC     ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+331,330,ALEXANDRE JOSE DE ARAUJO MARQUES,COORDENADOR/UO,CTCE BELO HORIZONTE/GEENC     ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+333,330,JUNIO MACENA PEREIRA,COORDENADOR/UO,CTCE BELO HORIZONTE/GEENC     ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+334,317,KEDIMA GOMES DA SILVA PACHECO,COORDENADOR/UO,CTCE BELO HORIZONTE/GPLAQ     ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+335,317,FABRICIO RIBEIRO SENA,COORDENADOR/UO,CTCE BELO HORIZONTE/GPLAQ     ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+336,317,ALOISIO HENRIQUE DE FREITAS VIANA,GERENTE ATIVIDADE - CTCE TP III,CTCE BELO HORIZONTE/GPLAQ     ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+337,317,ROSSANI CRISTINA MARQUES E NASCIMENTO,COORDENADOR/UO,CTCE BELO HORIZONTE/GPLAQ     ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+340,343,ENALDO VAZ DE MELO,COORDENADOR/UO,CTCE BELO HORIZONTE/GTURN1    ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+341,343,ALEXANDRE LOURENCO ALVES SOARES,COORDENADOR/UO,CTCE BELO HORIZONTE/GTURN1    ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+343,317,JAIRILDO DOS SANTOS DE OLIVEIRA,GERENTE ATIVIDADE - CTCE TP III,CTCE BELO HORIZONTE/GTURN1    ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+344,343,FABIO MOREIRA DA SILVA,COORDENADOR/UO,CTCE BELO HORIZONTE/GTURN1    ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+345,343,MARCELO DOS SANTOS HEREDIA,COORDENADOR/UO,CTCE BELO HORIZONTE/GTURN1    ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+346,343,BRUNO NEVES DE BRITO ALMEIDA,COORDENADOR/UO,CTCE BELO HORIZONTE/GTURN1    ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+347,343,ROSELI DE MATOS,COORDENADOR/UO,CTCE BELO HORIZONTE/GTURN1    ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+348,343,FABIANO FRANCISCO DE OLIVEIRA,COORDENADOR/UO,CTCE BELO HORIZONTE/GTURN1    ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+349,343,GLAZIANE DIAS DOS SANTOS,COORDENADOR/UO,CTCE BELO HORIZONTE/GTURN1    ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+350,343,EDER ANTONIO DA SILVA,COORDENADOR/UO,CTCE BELO HORIZONTE/GTURN1    ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+352,343,BRUNO LEONARDO SILVA SANTOS,COORDENADOR/UO,CTCE BELO HORIZONTE/GTURN1    ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+354,343,GILBERTO HONORIO ANDRE,COORDENADOR/UO,CTCE BELO HORIZONTE/GTURN1    ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+355,343,ANDRE HENRIQUE DUARTE SILVA,COORDENADOR/UO,CTCE BELO HORIZONTE/GTURN1    ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+360,343,IVAN MAULAZ SILVA,COORDENADOR/UO,CTCE BELO HORIZONTE/GTURN1    ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+361,343,LUCINEIA DA SILVA RODRIGUES RIBEIRO,COORDENADOR/UO,CTCE BELO HORIZONTE/GTURN1    ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+365,366,AMARILDO MANOEL DE MATOS,COORDENADOR/UO,CTCE BELO HORIZONTE/GTURN2    ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+366,317,ALUISIO MARTINS DO CARMO,GERENTE ATIVIDADE - CTCE TP III,CTCE BELO HORIZONTE/GTURN2    ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+367,366,ANDERSON DE OLIVEIRA PAULA,COORDENADOR/UO,CTCE BELO HORIZONTE/GTURN2    ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+370,366,NILTON CESAR DE PAULA,COORDENADOR/UO,CTCE BELO HORIZONTE/GTURN2    ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+372,366,LANDERSON PIRES SOARES,COORDENADOR/UO,CTCE BELO HORIZONTE/GTURN2    ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+373,366,ALEXANDRE GALDINO SILVA,COORDENADOR/UO,CTCE BELO HORIZONTE/GTURN2    ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+375,366,GERALDO MAGELA VAZ DA SILVA,COORDENADOR/UO,CTCE BELO HORIZONTE/GTURN2    ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+377,366,MARIA APARECIDA VIEIRA DE OLIVEIRA SILVA,COORDENADOR/UO,CTCE BELO HORIZONTE/GTURN2    ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+378,366,JOSE JACINTO ALVES BARROSO,COORDENADOR/UO,CTCE BELO HORIZONTE/GTURN2    ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+381,366,LEONARDO LISBOA VAZ,COORDENADOR/UO,CTCE BELO HORIZONTE/GTURN2    ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+382,366,VANESSA CONCEICAO RODRIGUES DE ARAUJO,COORDENADOR/UO,CTCE BELO HORIZONTE/GTURN2    ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+383,366,CARLOS EDUARDO LEMOS,COORDENADOR/UO,CTCE BELO HORIZONTE/GTURN2    ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+384,366,VLADIMIR RICARDO MENDES DE MORAES,COORDENADOR/UO,CTCE BELO HORIZONTE/GTURN2    ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+385,366,DOUGLAS DE OLIVEIRA ROSA,COORDENADOR/UO,CTCE BELO HORIZONTE/GTURN2    ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+386,366,SILVIA APARECIDA RODRIGUES OLIVEIRA,COORDENADOR/UO,CTCE BELO HORIZONTE/GTURN2    ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+391,401,JAIME SANTOS MEIRA,COORDENADOR/UO,CTCE BELO HORIZONTE/GTURN3    ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+392,401,AGNALDO FERREIRA DAMASCENO,COORDENADOR/UO,CTCE BELO HORIZONTE/GTURN3    ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+398,401,MARCIO MOREIRA PRADO,COORDENADOR/UO,CTCE BELO HORIZONTE/GTURN3    ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+399,401,WELLINGTON GOMES DA COSTA,COORDENADOR/UO,CTCE BELO HORIZONTE/GTURN3    ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+400,401,MARLON HELENO COSTA,COORDENADOR/UO,CTCE BELO HORIZONTE/GTURN3    ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+401,317,ALEXANDRE SEVERINO DE OLIVEIRA,GERENTE ATIVIDADE - CTCE TP III,CTCE BELO HORIZONTE/GTURN3    ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+402,401,CARLOS EDUARDO LINO,COORDENADOR/UO,CTCE BELO HORIZONTE/GTURN3    ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+403,401,LOURIVAL REIS RIBEIRO,COORDENADOR/UO,CTCE BELO HORIZONTE/GTURN3    ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+404,401,EDWILSON LEMOS PEREIRA,COORDENADOR/UO,CTCE BELO HORIZONTE/GTURN3    ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+405,401,CLAYTON SANTOS BATISTA,COORDENADOR/UO,CTCE BELO HORIZONTE/GTURN3    ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+407,317,JAQUELINE RIBEIRO PERACIO,CHEFE DE SECAO,CTCE BELO HORIZONTE/SEAO      ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+408,413,JOSE SEVERINO SILVA,SUPERVISOR,CTCE BELO HORIZONTE/SEMA      ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+409,413,JEFERSON BAZILIO GOMES,SUPERVISOR,CTCE BELO HORIZONTE/SEMA      ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+410,413,ARNALDO ARCANJO BORGES,SUPERVISOR,CTCE BELO HORIZONTE/SEMA      ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+411,413,CASSIUS FELIPE XAVIER GODOY,SUPERVISOR,CTCE BELO HORIZONTE/SEMA      ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+412,413,GEIFFERSON MEIRELES URIAS PINTO,SUPERVISOR,CTCE BELO HORIZONTE/SEMA      ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+413,317,CAIO WHEDEN DA COSTA,CHEFE DE SECAO,CTCE BELO HORIZONTE/SEMA      ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+414,413,LUCIANO FLORA BARBOSA,SUPERVISOR,CTCE BELO HORIZONTE/SEMA      ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+415,413,CHARLES FELIPE XAVIER GODOY,SUPERVISOR,CTCE BELO HORIZONTE/SEMA      ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+416,413,DANIEL SANTOS CARVALHO,SUPERVISOR,CTCE BELO HORIZONTE/SEMA      ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+417,413,RODOLFO DA SILVA FRANCISCO,SUPERVISOR,CTCE BELO HORIZONTE/SEMA      ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+418,413,ELIAS DE ASSIS,SUPERVISOR,CTCE BELO HORIZONTE/SEMA      ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+419,413,WARLEM ALVES FREITAS,SUPERVISOR,CTCE BELO HORIZONTE/SEMA      ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+420,413,TIAGO SANTOS DE CARVALHO,SUPERVISOR,CTCE BELO HORIZONTE/SEMA      ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+421,413,FREDERICO GOMES OLIVEIRA,SUPERVISOR,CTCE BELO HORIZONTE/SEMA      ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+422,413,LUIZ CARLOS JUNIO DA SILVA ANTHERO,SUPERVISOR,CTCE BELO HORIZONTE/SEMA      ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+423,413,BRUNO LINO MAIA,SUPERVISOR,CTCE BELO HORIZONTE/SEMA      ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+424,413,VITOR JOSE STEHLING PEREIRA,SUPERVISOR,CTCE BELO HORIZONTE/SEMA      ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+425,413,FILIPE CORREIA DA COSTA,SUPERVISOR,CTCE BELO HORIZONTE/SEMA      ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+426,413,JOAQUIM LUIZ DE OLIVEIRA JUNIOR,SUPERVISOR,CTCE BELO HORIZONTE/SEMA      ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+427,317,SILVANA DORIA,CHEFE DE SECAO,CTCE BELO HORIZONTE/SESU      ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+428,429,JOAO BATISTA DE FREITAS,SUPERVISOR OPERACIONAL I,CDD VICOSA                    ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+429,211,ANDRE ANTONIO MANTOAN,GERENTE CENTRO DIST DOMIC TP I,CDD VICOSA                    ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+430,429,CIRO JOSE RAIMUNDO,SUPERVISOR OPERACIONAL I,CDD VICOSA                    ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+431,134,SANDRO FERNANDES,GERENTE C.T.CART.ENCOM. TP III,CTCE CONTAGEM                 ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+432,434,LUCIANA OLIVEIRA DINIZ,COORDENADOR/UO,CTCE CONTAGEM/GCOPE           ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+433,434,MARCIA DE LURDES CORREA,COORDENADOR/UO,CTCE CONTAGEM/GCOPE           ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+434,431,DOUGLAS FURIATTI DE SOUZA SILVA,GERENTE ATIVIDADE - CTCE TP III,CTCE CONTAGEM/GCOPE           ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+435,438,VENILSO SOUZA LEITE,COORDENADOR/UO,CTCE CONTAGEM/GEENC           ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+436,438,MAURI ALVES PEREIRA,COORDENADOR/UO,CTCE CONTAGEM/GEENC           ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+437,438,CRISTIANO EUSTAQUIO LACERDA,COORDENADOR/UO,CTCE CONTAGEM/GEENC           ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+438,431,ELIANE FREIRE MAGALHAES,GERENTE ATIVIDADE - CTCE TP III,CTCE CONTAGEM/GEENC           ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+439,438,PATRICK CORDEIRO GUIMARAES,COORDENADOR/UO,CTCE CONTAGEM/GEENC           ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+440,441,LILIANE PAULINARIA DE ARAUJO OLIVEIRA,COORDENADOR/UO,CTCE CONTAGEM/GPLAQ           ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+441,431,BRUNO RODRIGUES MOUTTA,GERENTE ATIVIDADE - CTCE TP III,CTCE CONTAGEM/GPLAQ           ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+443,449,MISAEL FILGUEIRA MARTES,COORDENADOR/UO,CTCE CONTAGEM/GTURN1          ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+447,449,FLAVIO LUIS SILVA DE OLIVEIRA,COORDENADOR/UO,CTCE CONTAGEM/GTURN1          ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+449,431,FABIANE DA SILVA OLIVEIRA GOULART,GERENTE ATIVIDADE - CTCE TP III,CTCE CONTAGEM/GTURN1          ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+451,449,IVO PIRES DA COSTA CAMPOS LEMOS,COORDENADOR/UO,CTCE CONTAGEM/GTURN1          ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+452,449,MONICA MARIA PEREIRA ROSA,COORDENADOR/UO,CTCE CONTAGEM/GTURN1          ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+453,449,JUNIA MARCIA CAETANO FERREIRA,COORDENADOR/UO,CTCE CONTAGEM/GTURN1          ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+454,449,JOSE MARIA FERREIRA DE ALMEIDA,COORDENADOR/UO,CTCE CONTAGEM/GTURN1          ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+456,449,BARBARA KELLY DE OLIVEIRA,COORDENADOR/UO,CTCE CONTAGEM/GTURN1          ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+457,449,LUIZ FERNANDO DE ANDRADE,COORDENADOR/UO,CTCE CONTAGEM/GTURN1          ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+458,449,MILTON JOSE MARQUES CORDEIRO,COORDENADOR/UO,CTCE CONTAGEM/GTURN1          ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+459,449,SINARA CRISTINA ALMEIDA,SUBGERENTE LOGISTICA INTEGRADA II,CTCE CONTAGEM/GTURN1          ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+460,449,DANIEL DE SOUSA MARQUES,COORDENADOR/UO,CTCE CONTAGEM/GTURN1          ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+464,449,GUILHERME MARTINS SANTOS,COORDENADOR/UO,CTCE CONTAGEM/GTURN1          ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+465,449,SHEILANE APARECIDA DE CARVALHO,COORDENADOR/UO,CTCE CONTAGEM/GTURN1          ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+469,474,JULIO CESAR DOS SANTOS,COORDENADOR/UO,CTCE CONTAGEM/GTURN2          ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+470,474,CARLOS RENATO DA SILVA,COORDENADOR/UO,CTCE CONTAGEM/GTURN2          ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+471,474,RICHARD ANTONY BARBOSA FELIX,COORDENADOR/UO,CTCE CONTAGEM/GTURN2          ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+472,474,ANDERSON COSTA DE OLIVEIRA,COORDENADOR/UO,CTCE CONTAGEM/GTURN2          ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+474,431,ADAIR GOMES DE OLIVEIRA JUNIOR,GERENTE ATIVIDADE - CTCE TP III,CTCE CONTAGEM/GTURN2          ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+475,474,ROBSON PEDRO DOS SANTOS,COORDENADOR/UO,CTCE CONTAGEM/GTURN2          ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+476,474,VALFRANK ALVES DOS SANTOS,COORDENADOR/UO,CTCE CONTAGEM/GTURN2          ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+477,474,CRISTIANO OLIVEIRA SANTOS,COORDENADOR/UO,CTCE CONTAGEM/GTURN2          ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+479,474,ANDREIA RODRIGUES DE SOUZA FERREIRA,COORDENADOR/UO,CTCE CONTAGEM/GTURN2          ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+483,474,BRUNO RODRIGO DE SOUZA,COORDENADOR/UO,CTCE CONTAGEM/GTURN2          ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+487,492,MIGUEL ARCANJO LOPES,COORDENADOR/UO,CTCE CONTAGEM/GTURN3          ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+488,492,HEBERT JOSE DA ROCHA,COORDENADOR/UO,CTCE CONTAGEM/GTURN3          ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+489,492,REGINALDO DA SILVA FERREIRA,COORDENADOR/UO,CTCE CONTAGEM/GTURN3          ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+490,492,EDSON CARDOSO MIRANDA,COORDENADOR/UO,CTCE CONTAGEM/GTURN3          ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+491,492,ALEXANDRE DE SOUZA NEGRI,COORDENADOR/UO,CTCE CONTAGEM/GTURN3          ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+492,431,SEBASTIAO RIBEIRO DOS SANTOS FILHO,GERENTE ATIVIDADE - CTCE TP III,CTCE CONTAGEM/GTURN3          ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+493,492,RENATO TELES MARQUES,COORDENADOR/UO,CTCE CONTAGEM/GTURN3          ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+494,492,HELIO MARTINS DOS REIS,COORDENADOR/UO,CTCE CONTAGEM/GTURN3          ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+495,492,MARCUS VINICIUS DA SILVA LIMA,COORDENADOR/UO,CTCE CONTAGEM/GTURN3          ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+496,431,MARIA SUELI RAMOS DA ROCHA,CHEFE DE SECAO,CTCE CONTAGEM/SEAO            ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+497,501,JONATHAS DOS SANTOS FONTES,SUPERVISOR,CTCE CONTAGEM/SEMA            ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+498,501,ELIZABETE ASSIS DIAS MELO,SUPERVISOR,CTCE CONTAGEM/SEMA            ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+499,501,ADRIANO CAMPOS MIRANDA,SUPERVISOR,CTCE CONTAGEM/SEMA            ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+500,501,HALBERT CORNELIO MAYER,SUPERVISOR,CTCE CONTAGEM/SEMA            ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+501,431,IGOR LEAL TEIXEIRA,CHEFE DE SECAO,CTCE CONTAGEM/SEMA            ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+502,501,DIEGO BRUNO DE SOUZA SILVA,SUPERVISOR,CTCE CONTAGEM/SEMA            ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+503,501,OROMAR JORGE DE OLIVEIRA FILHO,SUPERVISOR,CTCE CONTAGEM/SEMA            ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+504,501,GLAUBER TIAGO DE SOUSA,SUPERVISOR,CTCE CONTAGEM/SEMA            ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+505,501,LEONARDO PEREIRA DE SOUZA,SUPERVISOR,CTCE CONTAGEM/SEMA            ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+506,501,ROBSON ANTONIO GERALDO DOS SANTOS,SUPERVISOR,CTCE CONTAGEM/SEMA            ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+507,501,LUIZ FERNANDO MENDES,SUPERVISOR,CTCE CONTAGEM/SEMA            ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+508,501,DANIELLA CRISTINA PEIXOTO DE SOUZA,SUPERVISOR,CTCE CONTAGEM/SEMA            ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+509,501,CLEITON DA SILVA LESSA,SUPERVISOR,CTCE CONTAGEM/SEMA            ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+510,431,VERONICA LOUBACK DE ALMEIDA,CHEFE DE SECAO,CTCE CONTAGEM/SESU            ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+511,106,ELIANE LEAL RIBEIRO,SUBGERENTE LOGISTICA INTEGRADA II,CLI TJ MG                     ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+512,513,ALESSANDRO PAULO DE LIMA,SUPERVISOR OPERACIONAL II,CDD BARREIRO                  ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+513,181,BRUNO HENRIQUE DE CASTRO ALVES DOS SANTOS,GERENTE CENTRO DIST DOMIC TP II,CDD BARREIRO                  ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+514,513,VICTOR AMORIM DOS SANTOS,SUPERVISOR OPERACIONAL II,CDD BARREIRO                  ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+515,181,RODRIGO RIBEIRO FERREIRA,GERENTE CENTRO DIST DOMIC TP I,CDD BARRO PRETO               ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+516,515,ADRIANO GONZAGA DE MELO,SUPERVISOR OPERACIONAL I,CDD BARRO PRETO               ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+517,515,CHRYSTIELLE BARBOSA XAVIER COSTA NASCIMENTO,SUPERVISOR OPERACIONAL I,CDD BARRO PRETO               ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+518,181,HUDSON TADEU CANDIDO,GERENTE CENTRO DIST DOMIC TP II,CDD BELO HORIZONTE            ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+519,518,LIBERIO ALBINO MAGALHAES,SUPERVISOR OPERACIONAL II,CDD BELO HORIZONTE            ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+520,518,RITA DE CASSIA BENTO,SUPERVISOR OPERACIONAL II,CDD BELO HORIZONTE            ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+521,518,BRENNER DOUGLAS TEIXEIRA BARROSO,SUPERVISOR OPERACIONAL II,CDD BELO HORIZONTE            ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+522,525,WALEY HENRIQUE DA COSTA MOREIRA,SUPERVISOR OPERACIONAL II,CDD BELO HORIZONTE LESTE      ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+523,525,LEONARDO MARTINS BENTO,SUPERVISOR OPERACIONAL II,CDD BELO HORIZONTE LESTE      ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+524,525,ELANE PEREIRA CRAMER,SUPERVISOR OPERACIONAL II,CDD BELO HORIZONTE LESTE      ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+525,181,JOSEPH ALVES GOMES,GERENTE CENTRO DIST DOMIC TP II,CDD BELO HORIZONTE LESTE      ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+526,529,JOSE ERNANI SILVA PINTO,SUPERVISOR OPERACIONAL II,CDD BELO HORIZONTE NORTE      ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+527,529,SIDNEY FIGUEIREDO ROSA,SUPERVISOR OPERACIONAL II,CDD BELO HORIZONTE NORTE      ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+528,529,REGISLAINE DA PIEDADE FERREIRA,SUPERVISOR OPERACIONAL II,CDD BELO HORIZONTE NORTE      ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+529,181,ALEX MARCIO DE CARVALHO,GERENTE CENTRO DIST DOMIC TP II,CDD BELO HORIZONTE NORTE      ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+530,181,SILAS AUGUSTO GONCALVES NOGUEIRA,GERENTE CENTRO DIST DOMIC TP I,CDD BELO HORIZONTE OESTE      ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+531,530,GUSTAVO LACERDA FERREIRA,SUPERVISOR OPERACIONAL I,CDD BELO HORIZONTE OESTE      ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+532,530,JACIANY FRANCISCA MARQUES DA SILVA,SUPERVISOR OPERACIONAL I,CDD BELO HORIZONTE OESTE      ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+533,181,WELERSON D ASCENCAO SILVA,GERENTE CENTRO DIST DOMIC TP I,CDD BELO HORIZONTE SUL        ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+534,533,ARILDO CARDOSO FERREIRA,SUPERVISOR OPERACIONAL I,CDD BELO HORIZONTE SUL        ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+535,533,HUGO AUGUSTO TOMELIN,SUPERVISOR OPERACIONAL I,CDD BELO HORIZONTE SUL        ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+536,181,WILLIAM BORGES DE SOUZA,GERENTE CENTRO DIST DOMIC TP II,CDD CALAFATE                  ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+537,536,ROGERIO RAIMUNDO NONATO,SUPERVISOR OPERACIONAL II,CDD CALAFATE                  ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+538,536,ADRIANA GARCIA DE SOUZA PINTO,SUPERVISOR OPERACIONAL II,CDD CALAFATE                  ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+539,536,GILMAR ALVES COSTA SANTOS,SUPERVISOR OPERACIONAL II,CDD CALAFATE                  ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+540,181,WANDERSON RODRIGUES DO NASCIMENTO EUGENIO,GERENTE CENTRO DIST DOMIC TP I,CDD FLORESTA                  ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+541,540,ANDRE ABRAHAO CARDOSO,SUPERVISOR OPERACIONAL I,CDD FLORESTA                  ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+542,540,ALIPIO WANDERLEY ARAUJO DOS SANTOS,SUPERVISOR OPERACIONAL I,CDD FLORESTA                  ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+543,181,MATEUS LUCAS MATOSO,GERENTE CENTRO DIST DOMIC TP I,CDD GLORIA                    ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+544,543,MARIA APARECIDA PINHEIRO DOMINGUES,SUPERVISOR OPERACIONAL I,CDD GLORIA                    ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+545,543,FABIO HENRIQUE DOS SANTOS,SUPERVISOR OPERACIONAL I,CDD GLORIA                    ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+546,181,SIMONE NUNES DA COSTA,GERENTE CENTRO DIST DOMIC TP I,CDD GUARANI                   ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+547,546,WALISSON SANTOS SOUZA DA ANUNCIACAO,SUPERVISOR OPERACIONAL I,CDD GUARANI                   ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+548,546,JAMIR PENA JUNIOR,SUPERVISOR OPERACIONAL I,CDD GUARANI                   ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+549,550,DENIS ASSIS DE FARIA,SUPERVISOR OPERACIONAL I,CDD JARAGUA                   ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+550,181,GISLENE GONCALVES DE JESUS,GERENTE CENTRO DIST DOMIC TP I,CDD JARAGUA                   ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+551,550,MARIA DA PIEDADE SOUSA MONTEIRO,SUPERVISOR OPERACIONAL I,CDD JARAGUA                   ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+552,553,FLORINDO BARBOSA DE SOUSA,SUPERVISOR OPERACIONAL I,CDD PLANALTO                  ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+553,181,BRUNO DE CASTRO GOMES,GERENTE CENTRO DIST DOMIC TP I,CDD PLANALTO                  ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+554,553,MARCOS PRATES DOS SANTOS,SUPERVISOR OPERACIONAL I,CDD PLANALTO                  ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+555,181,FABIANO JOSE GABRIEL FAGUNDES,GERENTE CENTRO DIST DOMIC TP I,CDD SAGRADA FAMILIA           ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+556,555,GREGORY FELIPE SOUTO SILVA,SUPERVISOR OPERACIONAL I,CDD SAGRADA FAMILIA           ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+557,555,JUNIO AGUIAR DA SILVA,SUPERVISOR OPERACIONAL I,CDD SAGRADA FAMILIA           ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+558,181,CLEUMAR FIGUEIREDO MEDEIROS,GERENTE CENTRO DIST DOMIC TP I,CDD SANTA EFIGENIA            ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+559,558,ANDREISON FRANCISCO PEREIRA,SUPERVISOR OPERACIONAL I,CDD SANTA EFIGENIA            ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+560,558,LUCIANO SOARES DOS SANTOS,SUPERVISOR OPERACIONAL I,CDD SANTA EFIGENIA            ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+561,562,MARCO AURELIO ALVES LACERDA,SUPERVISOR OPERACIONAL I,CDD SION                      ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+562,181,FABIO JOSE DA SILVA,GERENTE CENTRO DIST DOMIC TP I,CDD SION                      ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+563,562,REINALDO OLIVEIRA DE ARAUJO,SUPERVISOR OPERACIONAL I,CDD SION                      ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+564,567,ROBERTO CARLOS DA COSTA,SUPERVISOR OPERACIONAL III,CDD TIROL                     ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+565,567,LUIZ MARCIO DE OLIVEIRA FREITAS,SUPERVISOR OPERACIONAL III,CDD TIROL                     ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+566,567,EDSON FRANCISCO DA SILVA,SUPERVISOR OPERACIONAL III,CDD TIROL                     ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+567,181,DANIELA DA SILVA GULARTE,GERENTE CENTRO DIST DOMIC TP III,CDD TIROL                     ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+568,567,ESDRAS HENRIQUE SOUSA PINTO,SUPERVISOR OPERACIONAL III,CDD TIROL                     ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+569,571,CESAR ROGERIO LOPES,SUPERVISOR OPERACIONAL III,CDD VENDA NOVA                ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+570,571,ROGERIO ANDERSON DA COSTA,SUPERVISOR OPERACIONAL III,CDD VENDA NOVA                ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+571,181,GEAM ALVES PACHECO,GERENTE CENTRO DIST DOMIC TP III,CDD VENDA NOVA                ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+572,571,ANA PAULA ALVES BARBOSA FRAGA,SUPERVISOR OPERACIONAL III,CDD VENDA NOVA                ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
