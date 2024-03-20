@@ -400,3 +400,128 @@ id,parentId,name,position,lotacao,image
 570,571,ROGERIO ANDERSON DA COSTA,SUPERVISOR OPERACIONAL III,CDD VENDA NOVA                ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
 571,181,GEAM ALVES PACHECO,GERENTE CENTRO DIST DOMIC TP III,CDD VENDA NOVA                ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
 572,571,ANA PAULA ALVES BARBOSA FRAGA,SUPERVISOR OPERACIONAL III,CDD VENDA NOVA                ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+573,192,NEILOR VAGNER DA CUNHA,GERENTE CENTRO DIST DOMIC TP I,CDD ABAETE                    ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+574,218,FABIO RIBEIRO HONORATO,GERENTE CENTRO DIST DOMIC TP I,CDD ALFENAS                   ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+575,203,UADES GERMANO DOS ANJOS,GERENTE CENTRO DIST DOMIC TP I,CDD ALMENARA                  ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+576,203,JOSE CARLOS JARDIM,GERENTE CENTRO DIST DOMIC TP I,CDD ARACUAI                   ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+577,227,LUIZ FABIANO SILVA,GERENTE CENTRO DIST DOMIC TP I,CDD ARAGUARI                  ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+578,227,FABIO MARCOS MARTINS,GERENTE CENTRO DIST DOMIC TP I,CDD ARAXA                     ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+579,192,MARCELO LUIZ DE MELO,GERENTE CENTRO DIST DOMIC TP I,CDD ARCOS                     ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+580,211,SONIA MARIA BERNARDES FAJARDO,GERENTE CENTRO DIST DOMIC TP I,CDD BARBACENA                 ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+581,181,CLAUDIO HENRIQUE GOMES,GERENTE ATIVIDADE - CDIP,CDIP BELO HORIZONTE           ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+582,181,MARIA APARECIDA DE FREITAS GOMES,GERENTE - CDIP,CDIP BELO HORIZONTE           ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+583,181,ALEX RAMALHO,GERENTE CENTRO ENTR ENCOM TP III,CEE BELO HORIZONTE            ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+584,181,ISEQUIEL DOS SANTOS RUFINO,GERENTE CENTRO ENTR ENCOM TP III,CEE PAMPULHA                  ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+585,181,ARTUR VIEIRA DOS SANTOS FILHO,GERENTE DE LOGISTICA INTEGRADA I,CLI ARMAZEM DE RECURSOS       ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+586,181,LUAN RODRIGUES CARVALHO,SUBGERENTE LOGISTICA INTEGRADA II,CLI INDAIA                    ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+587,181,DAVIDSON DE ALCANTARA CARVALHO,GERENTE CENTRO TRANSP OPER TP III,CTO BELO HORIZONTE            ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+588,187,ANA PAULA SOARES AMARAL,GERENTE CENTRO DIST DOMIC TP II,CDD BETIM                     ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+589,187,LUIZ CLAUDIO CARDOSO FERREIRA,GERENTE CENTRO DIST DOMIC TP II,CDD BETIM CENTRO              ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+590,192,ANGELO MARCIO FARIA,GERENTE CENTRO DIST DOMIC TP I,CDD BOCAIUVA                  ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+591,192,RICARDO AMANCIO DE AMORIM,GERENTE CENTRO DIST DOMIC TP I,CDD BOM DESPACHO              ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+592,218,RILDO GUIMARAES SANTOS,GERENTE CENTRO DIST DOMIC TP I,CDD CAMPO BELO                ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+593,203,ADEMILSON ALVES BIE,GERENTE CENTRO DIST DOMIC TP I,CDD CAPELINHA                 ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+594,203,CARLOS OLIVEIRA VILELA DOURADO,GERENTE CENTRO DIST DOMIC TP I,CDD CARATINGA                 ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+595,211,VINICIOS DE SOUZA OLIVEIRA,GERENTE CENTRO DIST DOMIC TP I,CDD CATAGUASES                ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+596,218,MARCIO GARCIA,GERENTE CENTRO DIST DOMIC TP I,CDD CAXAMBU                   ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+597,211,DOUGLAS DE SOUZA ANTONIO,GERENTE CENTRO DIST DOMIC TP I,CDD CONGONHAS                 ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+598,211,CELIO ADRIANO DA COSTA,GERENTE CENTRO DIST DOMIC TP I,CDD CONSELHEIRO LAFAIETE      ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+599,187,ARNALDO LUIZ MACHADO SANTOS,GERENTE CENTRO DIST DOMIC TP II,CDD CONTAGEM                  ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+600,187,DIEGO DANIEL COSTA DE BARCELOS,GERENTE CENTRO DIST DOMIC TP I,CDD NOVO PROGRESSO            ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+601,187,WANDERSON CASSIMIRO DA PURIFICACAO,GERENTE CENTRO DIST DOMIC TP III,CDD PARQUE INDUSTRIAL         ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+602,187,WEMERSON ANANIAS DE SOUSA,GERENTE CENTRO ENTR ENCOM TP III,CEE VIA EXPRESSA              ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+603,187,CLAUDIO DA SILVA TITO,SUBGERENTE LOGISTICA INTEGRADA III,CLI BELO HORIZONTE/DR/MG      ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+604,187,DIONISIO NORBERTO PIRES,SUBGERENTE LOGISTICA INTEGRADA III,CLI CONTAGEM                  ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+605,187,MARIA LUCIANA DA SILVA,SUBGERENTE LOGISTICA INTEGRADA II,CLI MINEIRA DA SORTE          ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+606,187,HELBERT VINICIUS DE FARIA,SUBGERENTE LOGISTICA INTEGRADA III,CLI SMS CONTAGEM              ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+607,187,ANTONIO CLAUDIO FERREIRA,SUBGERENTE LOGISTICA INTEGRADA III,CLI TAPERA                    ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+608,203,HENRIQUE MARTINS ASSIS,GERENTE CENTRO DIST DOMIC TP I,CDD CORONEL FABRICIANO        ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+609,192,WARLLEN MARY DE OLIVEIRA,GERENTE CENTRO DIST DOMIC TP I,CDD CURVELO                   ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+610,203,ALEXANDRE ZILMAR BENFICA,GERENTE CENTRO DIST DOMIC TP I,CDD DIAMANTINA                ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+611,192,MARCOS ANTONIO TEIXEIRA,GERENTE CENTRO DIST DOMIC TP I,CDD DIVINOPOLIS               ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+612,192,GIORDANO RODRIGUES DOS SANTOS,GERENTE CENTRO DIST DOMIC TP III,CDD DIVINOPOLIS NORTE         ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+613,192,LEONEL ALVES VIEIRA,GERENTE CENTRO DIST DOMIC TP I,CDD ESMERALDAS                ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+614,218,SILVANO MARCELINO DE BRITO,GERENTE CENTRO DIST DOMIC TP I,CDD EXTREMA                   ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+615,192,BRUNO BITENCOURT DE FREITAS,GERENTE CENTRO DIST DOMIC TP I,CDD FORMIGA                   ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+616,227,CARLOS FERNANDES DA COSTA JUNIOR,GERENTE CENTRO DIST DOMIC TP I,CDD FRUTAL                    ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+617,203,RODRIGO DE PAULA FREITAS FIGUEIREDO,GERENTE CENTRO DIST DOMIC TP I,CDD GOV VALADARES CENTRO      ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+618,203,ARYANE ALVES COELHO FIGUEIREDO,GERENTE CENTRO DIST DOMIC TP I,CDD GOVERNADOR VALADARES      ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+619,203,FABIO ROBERTO AGUIAR DA SILVA,GERENTE CENTRO ENTR ENCOM TP I,CEE GOVERNADOR VALADARES      ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+620,203,JULIO PEREIRA NETO,GERENTE CENTRO DIST DOMIC TP I,CDD GUANHAES                  ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+621,218,JOAO PAULO DA SILVA,GERENTE CENTRO DIST DOMIC TP I,CDD GUAXUPE                   ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+622,187,PETTERSON DEIVYS DE OLIVEIRA,GERENTE CENTRO DIST DOMIC TP I,CDD IGARAPE                   ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+623,203,EDUARDO CIRIACO DA SILVA,GERENTE CENTRO DIST DOMIC TP I,CDD INTENDENTE CAMARA         ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+624,203,HELITON ALVES BARBOSA,GERENTE CENTRO DIST DOMIC TP I,CDD IPATINGA                  ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+625,203,WILLIANA KELLEN TOMAZ,GERENTE CENTRO DIST DOMIC TP I,CDD ITABIRA                   ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+626,187,CINARA DE MELO PEREIRA,GERENTE CENTRO DIST DOMIC TP I,CDD ITABIRITO                 ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+627,218,MAURILIO FERNANDES DE SOUZA,GERENTE CENTRO DIST DOMIC TP I,CDD ITAJUBA                   ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+628,192,LILIAN RAQUEL DIAS DOS SANTOS CAMILO,GERENTE CENTRO DIST DOMIC TP I,CDD ITAUNA                    ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+629,227,ALESSANDRO JOSE DA SILVA,GERENTE CENTRO DIST DOMIC TP I,CDD ITUIUTABA                 ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+630,227,WILLIAM ANTONIO LUZ,GERENTE CENTRO DIST DOMIC TP I,CDD ITURAMA                   ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+631,192,JORGE GONCALVES DOS SANTOS,GERENTE CENTRO DIST DOMIC TP I,CDD JANAUBA                   ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+632,192,SIDNEY NUNES ROCHA,GERENTE CENTRO DIST DOMIC TP I,CDD JANUARIA                  ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+633,203,ANTONIO CARLOS SILVA DE CARVALHO,GERENTE CENTRO DIST DOMIC TP I,CDD JOAO MONLEVADE            ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+634,211,CINTHIA GUIMARAES CLEMENTE DE BRITES RODRIGUES,GERENTE CENTRO DIST DOMIC TP II,CDD JUIZ DE FORA              ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+635,211,PATRICK RODRIGUES DE PAULA,GERENTE CENTRO DIST DOMIC TP III,CDD JUIZ DE FORA LESTE        ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+636,211,MARCELO BATISTA RAMALHO,GERENTE CENTRO DIST DOMIC TP II,CDD JUIZ DE FORA NORTE        ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+637,211,ROBSON PEREIRA DE LIMA,GERENTE CENTRO TRANSP OPER TP III,CTO JUIZ DE FORA              ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+638,187,FAGNER HENRIQUE BATISTA MARQUES,GERENTE CENTRO DIST DOMIC TP I,CDD LAGOA SANTA               ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+639,218,EDIVALDO DE LIMA LUIZ,GERENTE CENTRO DIST DOMIC TP II,CDD LAVRAS                    ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+640,211,JULIANO BATISTA DOS REIS,GERENTE CENTRO DIST DOMIC TP I,CDD LEOPOLDINA                ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+641,211,EDERSON DE OLIVEIRA FREITAS,GERENTE CENTRO DIST DOMIC TP I,CDD MANHUACU                  ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+642,187,ALEXSANDRO CELESTINO DE SOUZA,GERENTE CENTRO DIST DOMIC TP I,CDD MATOZINHOS                ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+643,192,ERUSMARLON DATIELUCER RIBEIRO OLIVEIRA,GERENTE CENTRO DIST DOMIC TP I,CDD MONTES CLAROS             ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+644,192,JOAO ELTON SOARES SILVA,GERENTE CENTRO DIST DOMIC TP I,CDD MONTES CLAROS SUL         ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+645,192,ALEXANDRO MURTA PINHEIRO,GERENTE CENTRO ENTR ENCOM TP III,CEE MONTES CLAROS             ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+646,192,IRANI DUARTE FONSECA MATOS,SUBGERENTE LOGISTICA INTEGRADA I,CLI MONTES CLAROS             ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+647,211,FABIO ALMEIDA DA SILVA,GERENTE CENTRO DIST DOMIC TP I,CDD MURIAE                    ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+648,187,MILTON RIBEIRO DOS SANTOS,GERENTE CENTRO DIST DOMIC TP II,CDD NOVA LIMA                 ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+649,218,ANDERSON MACIEL DA SILVA,GERENTE CENTRO DIST DOMIC TP I,CDD OURO FINO                 ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+650,211,CARLOS ALBERTO PEREIRA,GERENTE CENTRO DIST DOMIC TP I,CDD OURO PRETO                ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+651,192,LUCAS SANTOS SOUZA,GERENTE CENTRO DIST DOMIC TP I,CDD PARA DE MINAS             ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+652,227,EDSON BATISTA DE SOUZA,GERENTE CENTRO DIST DOMIC TP I,CDD PARACATU                  ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+653,218,DOUGLAS DIEGO TAVARES,GERENTE CENTRO DIST DOMIC TP I,CDD PASSOS                    ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+654,227,RICARDO VAZ CAIXETA,GERENTE CENTRO DIST DOMIC TP II,CDD PATOS DE MINAS            ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+655,227,MARCELO NUNES RIBEIRO,GERENTE CENTRO DIST DOMIC TP I,CDD PATROCINIO                ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+656,187,AMARILDO AMANCIO DE MOURA,GERENTE CENTRO DIST DOMIC TP I,CDD PEDRO LEOPOLDO            ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+657,192,FABIO ALEXANDRE DE OLIVEIRA,GERENTE CENTRO DIST DOMIC TP II,CDD NOVA SERRANA              ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+658,192,WALBERT DUARTE BARBOSA,GERENTE CENTRO DIST DOMIC TP I,CDD PIRAPORA                  ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+659,218,ELIAS MARQUES FREIRE,GERENTE CENTRO DIST DOMIC TP II,CDD POCOS DE CALDAS           ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+660,211,HUEDISON FORZA,GERENTE CENTRO DIST DOMIC TP I,CDD PONTE NOVA                ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+661,218,REINALDO OLIVEIRA CANDIDO,GERENTE CENTRO DIST DOMIC TP II,CDD POUSO ALEGRE              ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+662,187,ANA PRISCILLA TOCAFUNDO THOMPSON,GERENTE CENTRO DIST DOMIC TP II,CDD JUSTINOPOLIS              ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+663,187,REGINALDO LOPES TEIXEIRA CECILIO,GERENTE CENTRO DIST DOMIC TP II,CDD RIBEIRAO DAS NEVES        ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+664,187,PAULO CEZAR DE LIMA E SILVA,GERENTE CENTRO DIST DOMIC TP I,CDD SABARA                    ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+665,192,WARLEY PEREIRA SANTOS,GERENTE CENTRO DIST DOMIC TP I,CDD SALINAS                   ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+666,187,ROBSON DA ROCHA RIBEIRO,GERENTE CENTRO DIST DOMIC TP I,CDD SANTA LUZIA               ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+667,187,LEANDRO RIVER PEDRO DE ASSIS,GERENTE CENTRO DIST DOMIC TP I,CDD SAO BENEDITO              ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+668,218,JEFFERSON JOSE MARCOLINO,GERENTE CENTRO DIST DOMIC TP I,CDD SANTA RITA DO SAPUCAI     ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+669,203,WESLEY APARECIDO DE OLIVEIRA RIBEIRO,GERENTE CENTRO ENTR ENCOM TP I,CEE VALE DO ACO               ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+670,211,MISLENE ANGELICA DA SILVA,GERENTE CENTRO DIST DOMIC TP I,CDD SANTOS DUMONT             ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+671,192,JOSE GERALDO SERAFIM NIZ,GERENTE CENTRO DIST DOMIC TP I,CDD SAO FRANCISCO             ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+672,227,SERGIO RODRIGUES DE RESENDE,GERENTE CENTRO DIST DOMIC TP I,CDD SAO GOTARDO               ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+673,211,PRISCILA DANIELA DA SILVA MARGOTTI GUEDES,GERENTE CENTRO DIST DOMIC TP I,CDD SAO JOAO DEL REI          ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+674,218,MARCOS ROBERTO MOIA,GERENTE CENTRO DIST DOMIC TP I,CDD SAO LOURENCO              ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+675,218,MICHEL APARECIDO NICOLA,GERENTE CENTRO DIST DOMIC TP I,CDD SAO SEBASTIAO DO PARAISO  ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+676,192,HANNAH OLIVEIRA DOS SANTOS,GERENTE CENTRO DIST DOMIC TP II,CDD SETE LAGOAS NORTE         ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+677,203,JOSE JESUS COSTA,GERENTE CENTRO DIST DOMIC TP II,CDD TEOFILO OTONI             ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+678,203,ROGERIO GOMES DA SILVA,GERENTE CENTRO DIST DOMIC TP I,CDD TIMOTEO                   ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+679,218,VINICIUS JONAS FONSECA,GERENTE CENTRO DIST DOMIC TP I,CDD TRES CORACOES             ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+680,218,EVERTON ANTONIO PEREIRA,GERENTE CENTRO DIST DOMIC TP I,CDD TRES PONTAS               ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+681,211,DEIBIS RODOLFO COSTA,GERENTE CENTRO DIST DOMIC TP I,CDD UBA                       ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+682,227,ELLEN BORGES SANTOS ALMEIDA DA CRUZ,GERENTE CENTRO DIST DOMIC TP II,CDD UBERABA                   ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+683,227,JEAN CARLO BATISTA,GERENTE CENTRO DIST DOMIC TP II,CDD UBERABA SUL               ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+684,227,MARCELO EUSTAQUIO BENTO,GERENTE CENTRO TRANSP OPER TP III,CTO UBERABA                   ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+685,227,REGINALDO LUIZ DA SILVA,GERENTE CENTRO DIST DOMIC TP I,CDD UBERLANDIA                ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+686,227,KLESLEY DA SILVA PEREIRA,GERENTE CENTRO DIST DOMIC TP III,CDD UBERLANDIA LESTE          ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+687,227,MABSON MOURA DE ALMEIDA,GERENTE CENTRO DIST DOMIC TP I,CDD UBERLANDIA NORTE          ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+688,227,HENRI MARQUES DA SILVA,GERENTE CENTRO DIST DOMIC TP III,CDD UBERLANDIA OESTE          ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+689,227,MICHELI CRISTIAN DE OLIVEIRA,GERENTE CENTRO ENTR ENCOM TP I,CEE UBERLANDIA                ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+690,227,AURELIO TAVARES DE CASTRO,SUBGERENTE LOGISTICA INTEGRADA I,CLI UBERLANDIA                ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+691,227,VINICIUS DE ABREU PEREIRA,GERENTE C.T.CART.ENCOM. TP I,CTCE UBERLANDIA               ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+692,227,JARMES MELO DA SILVA,GERENTE CENTRO DIST DOMIC TP I,CDD UNAI                      ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+693,218,WELINGTON NEVES BARBOSA,GERENTE CENTRO DIST DOMIC TP I,CDD VARGINHA                  ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+694,218,LUIZ ANTONIO ROSSI,GERENTE CENTRO ENTR ENCOM TP I,CEE VARGINHA                  ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+695,218,JAQUELINE SALES,SUBGERENTE LOGISTICA INTEGRADA I,CLI VARGINHA                  ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+696,218,FLAVIO ALENCAR RANGEL,GERENTE C.T.CART.ENCOM. TP I,CTCE VARGINHA                 ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+697,187,SAULO ALVES DA SILVA,GERENTE CENTRO DIST DOMIC TP II,CDD VESPASIANO                ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
