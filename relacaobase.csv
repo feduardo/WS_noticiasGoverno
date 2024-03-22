@@ -4,7 +4,7 @@ id,parentId,name,position,lotacao,image
 92,91,FERNANDO GARCIA FERREIRA,GERENTE ATIVIDADE - CTC TP IV,CPDO,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
 93,92,ROBERTO CALDEIRA FLORES JUNIOR,CHEFE DE SECAO,CPDO/SPDO,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
 94,91,FABIO MATTOS FERREIRA,GERENTE,GEDIS,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-95,94,JOSE HENRIQUE DE CASTRO MAGALHAES,CHEFE DE SECAO,GEDIS,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+95,94,JOSE HENRIQUE DE CASTRO MAGALHAES,CHEFE DE SECAO,SADM,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
 96,94,LEANDRO ROBSON DA SILVA,SUBGERENTE,SUAMF,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
 97,96,SILVANA DE OLIVEIRA BENTO,CHEFE DE SECAO,SUAMF/SADF,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
 98,96,ROBERTO LEANDRO LOPES PAES,CHEFE DE SECAO,SUAMF/SGCO,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
@@ -16,9 +16,9 @@ id,parentId,name,position,lotacao,image
 104,103,JULIANO LEITE DE CARVALHO,CHEFE DE SECAO,SUPDI/SDIC,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
 105,103,ALETUZA DE JESUS MACEDO,CHEFE DE SECAO,SUPDI/SPDI,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
 106,91,MARCELO PIMENTA DE MIRANDA,GERENTE,GELOG,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-107,106,JOSY ELLEN CAETANO DOS SANTOS PEREIRA,CHEFE DE SECAO,GELOG/SADM,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-108,106,HERCULES RONDINELLE REIS DE CASTRO,SUBGERENTE,GELOG/SUGOL,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-109,106,MARIA DA CONSOLACAO BOAVENTURA,SUBGERENTE,GELOG/SUPLL,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+107,106,JOSY ELLEN CAETANO DOS SANTOS PEREIRA,CHEFE DE SECAO,SADM,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+108,106,HERCULES RONDINELLE REIS DE CASTRO,SUBGERENTE,SUGOL,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+109,106,MARIA DA CONSOLACAO BOAVENTURA,SUBGERENTE,SUPLL,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
 110,91,AYALA TATIANA TEIXEIRA DE CARVALHO,GERENTE,GERAT,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
 111,110,ALYSSON SOUZA MILAGRES,CHEFE DE SECAO,SADM,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
 112,110,OSMAN HORSTH DE SOUZA,SUBGERENTE,SUGAT,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
@@ -183,7 +183,6 @@ id,parentId,name,position,lotacao,image
 301,303,JONATAS EUSTAQUIO LACERDA,COORDENADOR DE ATENDIMENTO I,REATE11/COORD.,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
 302,303,EMERSON ALMEIDA FERREIRA,COORDENADOR DE VENDAS I,REATE11/COORD.,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
 303,110,DEGMAR GOMES DOS SANTOS,GERENTE ATIVIDADE - CTC TP IV,REATE11,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-304,303,SIRLEI SILVA AMORIM GONCALVES,COORDENADOR DE VENDAS I,REATE11/COORD.,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
 305,308,REGINA CECILIA FARIA BARBOSA CIABOTTI,COORDENADOR DE ATENDIMENTO I,REATE12/COORD.,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
 306,308,LUCAS QUEIROZ DE PAULA E SILVA,COORDENADOR DE VENDAS I,REATE12/COORD.,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
 307,308,SHEILA AFONSO RESENDE,COORDENADOR DE ATENDIMENTO I,REATE12/COORD.,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
@@ -227,7 +226,6 @@ id,parentId,name,position,lotacao,image
 350,343,EDER ANTONIO DA SILVA,COORDENADOR/UO,CTCE BELO HORIZONTE/GTURN1    ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
 352,343,BRUNO LEONARDO SILVA SANTOS,COORDENADOR/UO,CTCE BELO HORIZONTE/GTURN1    ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
 354,343,GILBERTO HONORIO ANDRE,COORDENADOR/UO,CTCE BELO HORIZONTE/GTURN1    ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-355,343,ANDRE HENRIQUE DUARTE SILVA,COORDENADOR/UO,CTCE BELO HORIZONTE/GTURN1    ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
 360,343,IVAN MAULAZ SILVA,COORDENADOR/UO,CTCE BELO HORIZONTE/GTURN1    ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
 361,343,LUCINEIA DA SILVA RODRIGUES RIBEIRO,COORDENADOR/UO,CTCE BELO HORIZONTE/GTURN1    ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
 365,366,AMARILDO MANOEL DE MATOS,COORDENADOR/UO,CTCE BELO HORIZONTE/GTURN2    ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
@@ -236,7 +234,7 @@ id,parentId,name,position,lotacao,image
 370,366,NILTON CESAR DE PAULA,COORDENADOR/UO,CTCE BELO HORIZONTE/GTURN2    ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
 372,366,LANDERSON PIRES SOARES,COORDENADOR/UO,CTCE BELO HORIZONTE/GTURN2    ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
 373,366,ALEXANDRE GALDINO SILVA,COORDENADOR/UO,CTCE BELO HORIZONTE/GTURN2    ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-375,366,GERALDO MAGELA VAZ DA SILVA,COORDENADOR/UO,CTCE BELO HORIZONTE/GTURN2    ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+375,587,GERALDO MAGELA VAZ DA SILVA,COORDENADOR/UO,CTO BELO HORIZONTE            ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
 377,366,MARIA APARECIDA VIEIRA DE OLIVEIRA SILVA,COORDENADOR/UO,CTCE BELO HORIZONTE/GTURN2    ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
 378,366,JOSE JACINTO ALVES BARROSO,COORDENADOR/UO,CTCE BELO HORIZONTE/GTURN2    ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
 381,366,LEONARDO LISBOA VAZ,COORDENADOR/UO,CTCE BELO HORIZONTE/GTURN2    ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
@@ -300,9 +298,7 @@ id,parentId,name,position,lotacao,image
 456,449,BARBARA KELLY DE OLIVEIRA,COORDENADOR/UO,CTCE CONTAGEM/GTURN1          ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
 457,449,LUIZ FERNANDO DE ANDRADE,COORDENADOR/UO,CTCE CONTAGEM/GTURN1          ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
 458,449,MILTON JOSE MARQUES CORDEIRO,COORDENADOR/UO,CTCE CONTAGEM/GTURN1          ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-459,449,SINARA CRISTINA ALMEIDA,SUBGERENTE LOGISTICA INTEGRADA II,CTCE CONTAGEM/GTURN1          ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
 460,449,DANIEL DE SOUSA MARQUES,COORDENADOR/UO,CTCE CONTAGEM/GTURN1          ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-464,449,GUILHERME MARTINS SANTOS,COORDENADOR/UO,CTCE CONTAGEM/GTURN1          ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
 465,449,SHEILANE APARECIDA DE CARVALHO,COORDENADOR/UO,CTCE CONTAGEM/GTURN1          ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
 469,474,JULIO CESAR DOS SANTOS,COORDENADOR/UO,CTCE CONTAGEM/GTURN2          ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
 470,474,CARLOS RENATO DA SILVA,COORDENADOR/UO,CTCE CONTAGEM/GTURN2          ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
@@ -345,18 +341,18 @@ id,parentId,name,position,lotacao,image
 515,181,RODRIGO RIBEIRO FERREIRA,GERENTE CENTRO DIST DOMIC TP I,CDD BARRO PRETO               ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
 516,515,ADRIANO GONZAGA DE MELO,SUPERVISOR OPERACIONAL I,CDD BARRO PRETO               ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
 517,515,CHRYSTIELLE BARBOSA XAVIER COSTA NASCIMENTO,SUPERVISOR OPERACIONAL I,CDD BARRO PRETO               ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-518,181,HUDSON TADEU CANDIDO,GERENTE CENTRO DIST DOMIC TP II,CDD BELO HORIZONTE            ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-519,518,LIBERIO ALBINO MAGALHAES,SUPERVISOR OPERACIONAL II,CDD BELO HORIZONTE            ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-520,518,RITA DE CASSIA BENTO,SUPERVISOR OPERACIONAL II,CDD BELO HORIZONTE            ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-521,518,BRENNER DOUGLAS TEIXEIRA BARROSO,SUPERVISOR OPERACIONAL II,CDD BELO HORIZONTE            ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-522,525,WALEY HENRIQUE DA COSTA MOREIRA,SUPERVISOR OPERACIONAL II,CDD BELO HORIZONTE LESTE      ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-523,525,LEONARDO MARTINS BENTO,SUPERVISOR OPERACIONAL II,CDD BELO HORIZONTE LESTE      ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-524,525,ELANE PEREIRA CRAMER,SUPERVISOR OPERACIONAL II,CDD BELO HORIZONTE LESTE      ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-525,181,JOSEPH ALVES GOMES,GERENTE CENTRO DIST DOMIC TP II,CDD BELO HORIZONTE LESTE      ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-526,529,JOSE ERNANI SILVA PINTO,SUPERVISOR OPERACIONAL II,CDD BELO HORIZONTE NORTE      ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-527,529,SIDNEY FIGUEIREDO ROSA,SUPERVISOR OPERACIONAL II,CDD BELO HORIZONTE NORTE      ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-528,529,REGISLAINE DA PIEDADE FERREIRA,SUPERVISOR OPERACIONAL II,CDD BELO HORIZONTE NORTE      ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-529,181,ALEX MARCIO DE CARVALHO,GERENTE CENTRO DIST DOMIC TP II,CDD BELO HORIZONTE NORTE      ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+518,181,HUDSON TADEU CANDIDO,GERENTE CENTRO DIST DOMIC TP I,CDD SION                      ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+519,555,LIBERIO ALBINO MAGALHAES,SUPERVISOR OPERACIONAL II,CDD BELO HORIZONTE            ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+520,555,RITA DE CASSIA BENTO,SUPERVISOR OPERACIONAL II,CDD BELO HORIZONTE            ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+521,555,BRENNER DOUGLAS TEIXEIRA BARROSO,SUPERVISOR OPERACIONAL II,CDD BELO HORIZONTE            ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+522,601,WALEY HENRIQUE DA COSTA MOREIRA,SUPERVISOR OPERACIONAL II,CDD BELO HORIZONTE LESTE      ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+523,601,LEONARDO MARTINS BENTO,SUPERVISOR OPERACIONAL II,CDD BELO HORIZONTE LESTE      ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+524,601,ELANE PEREIRA CRAMER,SUPERVISOR OPERACIONAL II,CDD BELO HORIZONTE LESTE      ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+525,181,JOSEPH ALVES GOMES,GERENTE CENTRO DIST DOMIC TP II,CDD BELO HORIZONTE NORTE      ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+526,525,JOSE ERNANI SILVA PINTO,SUPERVISOR OPERACIONAL II,CDD BELO HORIZONTE NORTE      ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+527,525,SIDNEY FIGUEIREDO ROSA,SUPERVISOR OPERACIONAL II,CDD BELO HORIZONTE NORTE      ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+528,525,REGISLAINE DA PIEDADE FERREIRA,SUPERVISOR OPERACIONAL II,CDD BELO HORIZONTE NORTE      ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+529,181,ALEX MARCIO DE CARVALHO,GERENTE CENTRO DIST DOMIC TP I,CDD GUARANI                   ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
 530,181,SILAS AUGUSTO GONCALVES NOGUEIRA,GERENTE CENTRO DIST DOMIC TP I,CDD BELO HORIZONTE OESTE      ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
 531,530,GUSTAVO LACERDA FERREIRA,SUPERVISOR OPERACIONAL I,CDD BELO HORIZONTE OESTE      ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
 532,530,JACIANY FRANCISCA MARQUES DA SILVA,SUPERVISOR OPERACIONAL I,CDD BELO HORIZONTE OESTE      ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
@@ -373,24 +369,24 @@ id,parentId,name,position,lotacao,image
 543,181,MATEUS LUCAS MATOSO,GERENTE CENTRO DIST DOMIC TP I,CDD GLORIA                    ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
 544,543,MARIA APARECIDA PINHEIRO DOMINGUES,SUPERVISOR OPERACIONAL I,CDD GLORIA                    ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
 545,543,FABIO HENRIQUE DOS SANTOS,SUPERVISOR OPERACIONAL I,CDD GLORIA                    ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-546,181,SIMONE NUNES DA COSTA,GERENTE CENTRO DIST DOMIC TP I,CDD GUARANI                   ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-547,546,WALISSON SANTOS SOUZA DA ANUNCIACAO,SUPERVISOR OPERACIONAL I,CDD GUARANI                   ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-548,546,JAMIR PENA JUNIOR,SUPERVISOR OPERACIONAL I,CDD GUARANI                   ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+546,181,SIMONE NUNES DA COSTA,GERENTE CENTRO DIST DOMIC TP I,CDD PLANALTO                  ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+547,529,WALISSON SANTOS SOUZA DA ANUNCIACAO,SUPERVISOR OPERACIONAL I,CDD GUARANI                   ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+548,529,JAMIR PENA JUNIOR,SUPERVISOR OPERACIONAL I,CDD GUARANI                   ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
 549,550,DENIS ASSIS DE FARIA,SUPERVISOR OPERACIONAL I,CDD JARAGUA                   ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
 550,181,GISLENE GONCALVES DE JESUS,GERENTE CENTRO DIST DOMIC TP I,CDD JARAGUA                   ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
 551,550,MARIA DA PIEDADE SOUSA MONTEIRO,SUPERVISOR OPERACIONAL I,CDD JARAGUA                   ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-552,553,FLORINDO BARBOSA DE SOUSA,SUPERVISOR OPERACIONAL I,CDD PLANALTO                  ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-553,181,BRUNO DE CASTRO GOMES,GERENTE CENTRO DIST DOMIC TP I,CDD PLANALTO                  ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-554,553,MARCOS PRATES DOS SANTOS,SUPERVISOR OPERACIONAL I,CDD PLANALTO                  ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-555,181,FABIANO JOSE GABRIEL FAGUNDES,GERENTE CENTRO DIST DOMIC TP I,CDD SAGRADA FAMILIA           ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-556,555,GREGORY FELIPE SOUTO SILVA,SUPERVISOR OPERACIONAL I,CDD SAGRADA FAMILIA           ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-557,555,JUNIO AGUIAR DA SILVA,SUPERVISOR OPERACIONAL I,CDD SAGRADA FAMILIA           ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+552,546,FLORINDO BARBOSA DE SOUSA,SUPERVISOR OPERACIONAL I,CDD PLANALTO                  ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+553,181,BRUNO DE CASTRO GOMES,GERENTE CENTRO DIST DOMIC TP I,CDD SAGRADA FAMILIA           ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+554,546,MARCOS PRATES DOS SANTOS,SUPERVISOR OPERACIONAL I,CDD PLANALTO                  ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+555,181,FABIANO JOSE GABRIEL FAGUNDES,GERENTE CENTRO DIST DOMIC TP II,CDD BELO HORIZONTE            ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+556,553,GREGORY FELIPE SOUTO SILVA,SUPERVISOR OPERACIONAL I,CDD SAGRADA FAMILIA           ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+557,553,JUNIO AGUIAR DA SILVA,SUPERVISOR OPERACIONAL I,CDD SAGRADA FAMILIA           ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
 558,181,CLEUMAR FIGUEIREDO MEDEIROS,GERENTE CENTRO DIST DOMIC TP I,CDD SANTA EFIGENIA            ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
 559,558,ANDREISON FRANCISCO PEREIRA,SUPERVISOR OPERACIONAL I,CDD SANTA EFIGENIA            ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
 560,558,LUCIANO SOARES DOS SANTOS,SUPERVISOR OPERACIONAL I,CDD SANTA EFIGENIA            ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-561,562,MARCO AURELIO ALVES LACERDA,SUPERVISOR OPERACIONAL I,CDD SION                      ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-562,181,FABIO JOSE DA SILVA,GERENTE CENTRO DIST DOMIC TP I,CDD SION                      ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-563,562,REINALDO OLIVEIRA DE ARAUJO,SUPERVISOR OPERACIONAL I,CDD SION                      ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+561,518,MARCO AURELIO ALVES LACERDA,SUPERVISOR OPERACIONAL I,CDD SION                      ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+562,187,FABIO JOSE DA SILVA,GERENTE CENTRO DIST DOMIC TP II,CDD RIBEIRAO DAS NEVES        ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+563,518,REINALDO OLIVEIRA DE ARAUJO,SUPERVISOR OPERACIONAL I,CDD SION                      ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
 564,567,ROBERTO CARLOS DA COSTA,SUPERVISOR OPERACIONAL III,CDD TIROL                     ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
 565,567,LUIZ MARCIO DE OLIVEIRA FREITAS,SUPERVISOR OPERACIONAL III,CDD TIROL                     ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
 566,567,EDSON FRANCISCO DA SILVA,SUPERVISOR OPERACIONAL III,CDD TIROL                     ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
@@ -408,15 +404,15 @@ id,parentId,name,position,lotacao,image
 578,227,FABIO MARCOS MARTINS,GERENTE CENTRO DIST DOMIC TP I,CDD ARAXA                     ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
 579,192,MARCELO LUIZ DE MELO,GERENTE CENTRO DIST DOMIC TP I,CDD ARCOS                     ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
 580,211,SONIA MARIA BERNARDES FAJARDO,GERENTE CENTRO DIST DOMIC TP I,CDD BARBACENA                 ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-581,181,CLAUDIO HENRIQUE GOMES,GERENTE ATIVIDADE - CDIP,CDIP BELO HORIZONTE           ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-582,181,MARIA APARECIDA DE FREITAS GOMES,GERENTE - CDIP,CDIP BELO HORIZONTE           ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+581,582,CLAUDIO HENRIQUE GOMES,GERENTE ATIVIDADE - CDIP,CDIP BELO HORIZONTE           ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+582,106,MARIA APARECIDA DE FREITAS GOMES,GERENTE - CDIP,CDIP BELO HORIZONTE           ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
 583,181,ALEX RAMALHO,GERENTE CENTRO ENTR ENCOM TP III,CEE BELO HORIZONTE            ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
 584,181,ISEQUIEL DOS SANTOS RUFINO,GERENTE CENTRO ENTR ENCOM TP III,CEE PAMPULHA                  ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-585,181,ARTUR VIEIRA DOS SANTOS FILHO,GERENTE DE LOGISTICA INTEGRADA I,CLI ARMAZEM DE RECURSOS       ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-586,181,LUAN RODRIGUES CARVALHO,SUBGERENTE LOGISTICA INTEGRADA II,CLI INDAIA                    ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-587,181,DAVIDSON DE ALCANTARA CARVALHO,GERENTE CENTRO TRANSP OPER TP III,CTO BELO HORIZONTE            ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+585,106,ARTUR VIEIRA DOS SANTOS FILHO,GERENTE DE LOGISTICA INTEGRADA I,CLI ARMAZEM DE RECURSOS       ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+586,106,LUAN RODRIGUES CARVALHO,SUBGERENTE LOGISTICA INTEGRADA II,CLI INDAIA                    ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+587,94,DAVIDSON DE ALCANTARA CARVALHO,GERENTE CENTRO TRANSP OPER TP III,CTO BELO HORIZONTE            ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
 588,187,ANA PAULA SOARES AMARAL,GERENTE CENTRO DIST DOMIC TP II,CDD BETIM                     ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-589,187,LUIZ CLAUDIO CARDOSO FERREIRA,GERENTE CENTRO DIST DOMIC TP II,CDD BETIM CENTRO              ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+589,187,LUIZ CLAUDIO CARDOSO FERREIRA,GERENTE CENTRO DIST DOMIC TP II,CDD NOVA LIMA                 ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
 590,192,ANGELO MARCIO FARIA,GERENTE CENTRO DIST DOMIC TP I,CDD BOCAIUVA                  ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
 591,192,RICARDO AMANCIO DE AMORIM,GERENTE CENTRO DIST DOMIC TP I,CDD BOM DESPACHO              ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
 592,218,RILDO GUIMARAES SANTOS,GERENTE CENTRO DIST DOMIC TP I,CDD CAMPO BELO                ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
@@ -426,21 +422,21 @@ id,parentId,name,position,lotacao,image
 596,218,MARCIO GARCIA,GERENTE CENTRO DIST DOMIC TP I,CDD CAXAMBU                   ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
 597,211,DOUGLAS DE SOUZA ANTONIO,GERENTE CENTRO DIST DOMIC TP I,CDD CONGONHAS                 ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
 598,211,CELIO ADRIANO DA COSTA,GERENTE CENTRO DIST DOMIC TP I,CDD CONSELHEIRO LAFAIETE      ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-599,187,ARNALDO LUIZ MACHADO SANTOS,GERENTE CENTRO DIST DOMIC TP II,CDD CONTAGEM                  ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+599,187,ARNALDO LUIZ MACHADO SANTOS,GERENTE CENTRO DIST DOMIC TP II,CDD BETIM CENTRO              ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
 600,187,DIEGO DANIEL COSTA DE BARCELOS,GERENTE CENTRO DIST DOMIC TP I,CDD NOVO PROGRESSO            ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-601,187,WANDERSON CASSIMIRO DA PURIFICACAO,GERENTE CENTRO DIST DOMIC TP III,CDD PARQUE INDUSTRIAL         ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+601,181,WANDERSON CASSIMIRO DA PURIFICACAO,GERENTE CENTRO DIST DOMIC TP II,CDD BELO HORIZONTE LESTE      ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
 602,187,WEMERSON ANANIAS DE SOUSA,GERENTE CENTRO ENTR ENCOM TP III,CEE VIA EXPRESSA              ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-603,187,CLAUDIO DA SILVA TITO,SUBGERENTE LOGISTICA INTEGRADA III,CLI BELO HORIZONTE/DR/MG      ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-604,187,DIONISIO NORBERTO PIRES,SUBGERENTE LOGISTICA INTEGRADA III,CLI CONTAGEM                  ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-605,187,MARIA LUCIANA DA SILVA,SUBGERENTE LOGISTICA INTEGRADA II,CLI MINEIRA DA SORTE          ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-606,187,HELBERT VINICIUS DE FARIA,SUBGERENTE LOGISTICA INTEGRADA III,CLI SMS CONTAGEM              ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-607,187,ANTONIO CLAUDIO FERREIRA,SUBGERENTE LOGISTICA INTEGRADA III,CLI TAPERA                    ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+603,106,CLAUDIO DA SILVA TITO,SUBGERENTE LOGISTICA INTEGRADA III,CLI BELO HORIZONTE/DR/MG      ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+604,106,DIONISIO NORBERTO PIRES,SUBGERENTE LOGISTICA INTEGRADA III,CLI CONTAGEM                  ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+605,106,MARIA LUCIANA DA SILVA,SUBGERENTE LOGISTICA INTEGRADA II,CLI MINEIRA DA SORTE          ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+606,106,HELBERT VINICIUS DE FARIA,SUBGERENTE LOGISTICA INTEGRADA III,CLI SMS CONTAGEM              ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+607,106,ANTONIO CLAUDIO FERREIRA,SUBGERENTE LOGISTICA INTEGRADA III,CLI TAPERA                    ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
 608,203,HENRIQUE MARTINS ASSIS,GERENTE CENTRO DIST DOMIC TP I,CDD CORONEL FABRICIANO        ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
 609,192,WARLLEN MARY DE OLIVEIRA,GERENTE CENTRO DIST DOMIC TP I,CDD CURVELO                   ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
 610,203,ALEXANDRE ZILMAR BENFICA,GERENTE CENTRO DIST DOMIC TP I,CDD DIAMANTINA                ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
 611,192,MARCOS ANTONIO TEIXEIRA,GERENTE CENTRO DIST DOMIC TP I,CDD DIVINOPOLIS               ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
 612,192,GIORDANO RODRIGUES DOS SANTOS,GERENTE CENTRO DIST DOMIC TP III,CDD DIVINOPOLIS NORTE         ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-613,192,LEONEL ALVES VIEIRA,GERENTE CENTRO DIST DOMIC TP I,CDD ESMERALDAS                ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+613,192,LEONEL ALVES VIEIRA,GERENTE CENTRO DIST DOMIC TP I,CDD SETE LAGOAS               ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
 614,218,SILVANO MARCELINO DE BRITO,GERENTE CENTRO DIST DOMIC TP I,CDD EXTREMA                   ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
 615,192,BRUNO BITENCOURT DE FREITAS,GERENTE CENTRO DIST DOMIC TP I,CDD FORMIGA                   ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
 616,227,CARLOS FERNANDES DA COSTA JUNIOR,GERENTE CENTRO DIST DOMIC TP I,CDD FRUTAL                    ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
@@ -464,7 +460,7 @@ id,parentId,name,position,lotacao,image
 634,211,CINTHIA GUIMARAES CLEMENTE DE BRITES RODRIGUES,GERENTE CENTRO DIST DOMIC TP II,CDD JUIZ DE FORA              ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
 635,211,PATRICK RODRIGUES DE PAULA,GERENTE CENTRO DIST DOMIC TP III,CDD JUIZ DE FORA LESTE        ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
 636,211,MARCELO BATISTA RAMALHO,GERENTE CENTRO DIST DOMIC TP II,CDD JUIZ DE FORA NORTE        ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-637,211,ROBSON PEREIRA DE LIMA,GERENTE CENTRO TRANSP OPER TP III,CTO JUIZ DE FORA              ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+637,94,ROBSON PEREIRA DE LIMA,GERENTE CENTRO TRANSP OPER TP III,CTO JUIZ DE FORA              ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
 638,187,FAGNER HENRIQUE BATISTA MARQUES,GERENTE CENTRO DIST DOMIC TP I,CDD LAGOA SANTA               ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
 639,218,EDIVALDO DE LIMA LUIZ,GERENTE CENTRO DIST DOMIC TP II,CDD LAVRAS                    ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
 640,211,JULIANO BATISTA DOS REIS,GERENTE CENTRO DIST DOMIC TP I,CDD LEOPOLDINA                ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
@@ -473,9 +469,9 @@ id,parentId,name,position,lotacao,image
 643,192,ERUSMARLON DATIELUCER RIBEIRO OLIVEIRA,GERENTE CENTRO DIST DOMIC TP I,CDD MONTES CLAROS             ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
 644,192,JOAO ELTON SOARES SILVA,GERENTE CENTRO DIST DOMIC TP I,CDD MONTES CLAROS SUL         ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
 645,192,ALEXANDRO MURTA PINHEIRO,GERENTE CENTRO ENTR ENCOM TP III,CEE MONTES CLAROS             ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-646,192,IRANI DUARTE FONSECA MATOS,SUBGERENTE LOGISTICA INTEGRADA I,CLI MONTES CLAROS             ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+646,106,IRANI DUARTE FONSECA MATOS,SUBGERENTE LOGISTICA INTEGRADA I,CLI MONTES CLAROS             ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
 647,211,FABIO ALMEIDA DA SILVA,GERENTE CENTRO DIST DOMIC TP I,CDD MURIAE                    ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-648,187,MILTON RIBEIRO DOS SANTOS,GERENTE CENTRO DIST DOMIC TP II,CDD NOVA LIMA                 ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+648,187,MILTON RIBEIRO DOS SANTOS,GERENTE CENTRO DIST DOMIC TP III,CDD PARQUE INDUSTRIAL         ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
 649,218,ANDERSON MACIEL DA SILVA,GERENTE CENTRO DIST DOMIC TP I,CDD OURO FINO                 ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
 650,211,CARLOS ALBERTO PEREIRA,GERENTE CENTRO DIST DOMIC TP I,CDD OURO PRETO                ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
 651,192,LUCAS SANTOS SOUZA,GERENTE CENTRO DIST DOMIC TP I,CDD PARA DE MINAS             ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
@@ -490,7 +486,7 @@ id,parentId,name,position,lotacao,image
 660,211,HUEDISON FORZA,GERENTE CENTRO DIST DOMIC TP I,CDD PONTE NOVA                ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
 661,218,REINALDO OLIVEIRA CANDIDO,GERENTE CENTRO DIST DOMIC TP II,CDD POUSO ALEGRE              ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
 662,187,ANA PRISCILLA TOCAFUNDO THOMPSON,GERENTE CENTRO DIST DOMIC TP II,CDD JUSTINOPOLIS              ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-663,187,REGINALDO LOPES TEIXEIRA CECILIO,GERENTE CENTRO DIST DOMIC TP II,CDD RIBEIRAO DAS NEVES        ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+663,187,REGINALDO LOPES TEIXEIRA CECILIO,GERENTE CENTRO DIST DOMIC TP II,CDD CONTAGEM                  ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
 664,187,PAULO CEZAR DE LIMA E SILVA,GERENTE CENTRO DIST DOMIC TP I,CDD SABARA                    ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
 665,192,WARLEY PEREIRA SANTOS,GERENTE CENTRO DIST DOMIC TP I,CDD SALINAS                   ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
 666,187,ROBSON DA ROCHA RIBEIRO,GERENTE CENTRO DIST DOMIC TP I,CDD SANTA LUZIA               ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
@@ -511,17 +507,296 @@ id,parentId,name,position,lotacao,image
 681,211,DEIBIS RODOLFO COSTA,GERENTE CENTRO DIST DOMIC TP I,CDD UBA                       ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
 682,227,ELLEN BORGES SANTOS ALMEIDA DA CRUZ,GERENTE CENTRO DIST DOMIC TP II,CDD UBERABA                   ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
 683,227,JEAN CARLO BATISTA,GERENTE CENTRO DIST DOMIC TP II,CDD UBERABA SUL               ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-684,227,MARCELO EUSTAQUIO BENTO,GERENTE CENTRO TRANSP OPER TP III,CTO UBERABA                   ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+684,94,MARCELO EUSTAQUIO BENTO,GERENTE CENTRO TRANSP OPER TP III,CTO UBERABA                   ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
 685,227,REGINALDO LUIZ DA SILVA,GERENTE CENTRO DIST DOMIC TP I,CDD UBERLANDIA                ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
 686,227,KLESLEY DA SILVA PEREIRA,GERENTE CENTRO DIST DOMIC TP III,CDD UBERLANDIA LESTE          ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
 687,227,MABSON MOURA DE ALMEIDA,GERENTE CENTRO DIST DOMIC TP I,CDD UBERLANDIA NORTE          ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
 688,227,HENRI MARQUES DA SILVA,GERENTE CENTRO DIST DOMIC TP III,CDD UBERLANDIA OESTE          ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
 689,227,MICHELI CRISTIAN DE OLIVEIRA,GERENTE CENTRO ENTR ENCOM TP I,CEE UBERLANDIA                ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-690,227,AURELIO TAVARES DE CASTRO,SUBGERENTE LOGISTICA INTEGRADA I,CLI UBERLANDIA                ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-691,227,VINICIUS DE ABREU PEREIRA,GERENTE C.T.CART.ENCOM. TP I,CTCE UBERLANDIA               ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+690,106,AURELIO TAVARES DE CASTRO,SUBGERENTE LOGISTICA INTEGRADA I,CLI UBERLANDIA                ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+691,134,VINICIUS DE ABREU PEREIRA,GERENTE C.T.CART.ENCOM. TP I,CTCE UBERLANDIA               ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
 692,227,JARMES MELO DA SILVA,GERENTE CENTRO DIST DOMIC TP I,CDD UNAI                      ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
 693,218,WELINGTON NEVES BARBOSA,GERENTE CENTRO DIST DOMIC TP I,CDD VARGINHA                  ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
 694,218,LUIZ ANTONIO ROSSI,GERENTE CENTRO ENTR ENCOM TP I,CEE VARGINHA                  ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-695,218,JAQUELINE SALES,SUBGERENTE LOGISTICA INTEGRADA I,CLI VARGINHA                  ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
-696,218,FLAVIO ALENCAR RANGEL,GERENTE C.T.CART.ENCOM. TP I,CTCE VARGINHA                 ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+695,106,JAQUELINE SALES,SUBGERENTE LOGISTICA INTEGRADA I,CLI VARGINHA                  ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+696,134,FLAVIO ALENCAR RANGEL,GERENTE C.T.CART.ENCOM. TP I,CTCE VARGINHA                 ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
 697,187,SAULO ALVES DA SILVA,GERENTE CENTRO DIST DOMIC TP II,CDD VESPASIANO                ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+698,303,SILVANA GERALDA VALGAS DE ALMEIDA,COORDENADOR DE VENDAS I,REATE11/COORD.,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+699,573,ELIANE FERREIRA DA SILVA,SUPERVISOR OPERACIONAL I,CDD ABAETE                    ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+700,574,NAIR MARIA CABRAL,SUPERVISOR OPERACIONAL I,CDD ALFENAS                   ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+701,575,RENATA RODRIGUES ALMEIDA,SUPERVISOR OPERACIONAL I,CDD ALMENARA                  ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+702,576,NARLA MATOS PEREIRA,SUPERVISOR DE OPERACOES/DR,CDD ARACUAI                   ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+703,576,KAROLINA GONCALVES NEPOMUCENO,SUPERVISOR OPERACIONAL I,CDD ARACUAI                   ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+704,577,VITOR DOS SANTOS COSTA,SUPERVISOR OPERACIONAL I,CDD ARAGUARI                  ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+705,578,JORGE TEIXEIRA DE OLIVEIRA COSTA,SUPERVISOR OPERACIONAL I,CDD ARAXA                     ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+706,578,RONALDO ADOLFO SANTOS,SUPERVISOR OPERACIONAL I,CDD ARAXA                     ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+707,579,FABIO MENDONCA NUNES,SUPERVISOR OPERACIONAL I,CDD ARCOS                     ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+708,580,ADRIANO DE ALMEIDA CRUZ,SUPERVISOR OPERACIONAL I,CDD BARBACENA                 ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+709,580,SABRINA APARECIDA RIBEIRO,SUPERVISOR OPERACIONAL I,CDD BARBACENA                 ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+710,588,WANDERSON MAGNO ALVES,SUPERVISOR OPERACIONAL II,CDD BETIM                     ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+711,588,DAVIDSON OLIVEIRA JESUS,SUPERVISOR OPERACIONAL II,CDD BETIM                     ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+712,588,CASSIO ANTONIO VIEIRA NEIVA,SUPERVISOR OPERACIONAL II,CDD BETIM                     ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+713,599,WASHINGTON DIAS DA SILVA,SUPERVISOR OPERACIONAL II,CDD BETIM CENTRO              ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+714,599,SIMONE MARQUES OLIVEIRA,SUPERVISOR OPERACIONAL II,CDD BETIM CENTRO              ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+715,599,ALAN FABIANO FRANCA,SUPERVISOR OPERACIONAL II,CDD BETIM CENTRO              ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+716,590,MARCIO RODRIGUES SANTOS,SUPERVISOR OPERACIONAL I,CDD BOCAIUVA                  ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+717,591,HELENA COSTA CAMPOS,SUPERVISOR OPERACIONAL I,CDD BOM DESPACHO              ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+718,592,CLEBER JOSE LOTERIO,SUPERVISOR OPERACIONAL I,CDD CAMPO BELO                ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+719,593,MARCELO CORDEIRO DE FREITAS,SUPERVISOR OPERACIONAL I,CDD CAPELINHA                 ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+720,594,JUCILENE DE SOUSA MARTINS LOURES,SUPERVISOR OPERACIONAL I,CDD CARATINGA                 ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+721,595,RICARDO HENRIQUES DA SILVA,SUPERVISOR OPERACIONAL I,CDD CATAGUASES                ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+722,596,JOAO PAULO GOMES MORENO,SUPERVISOR OPERACIONAL I,CDD CAXAMBU                   ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+723,597,REGINALDO GILBERTO DE CARVALHO,SUPERVISOR DE OPERACOES/DR,CDD CONGONHAS                 ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+724,597,RAFAEL RODRIGUES DOS SANTOS,SUPERVISOR OPERACIONAL I,CDD CONGONHAS                 ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+725,598,GERALDO REZENDE PEREIRA,SUPERVISOR OPERACIONAL I,CDD CONSELHEIRO LAFAIETE      ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+726,598,ALEXSANDRA GONZAGA DE REZENDE MELO PEREIRA,SUPERVISOR OPERACIONAL I,CDD CONSELHEIRO LAFAIETE      ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+727,598,GUSTAVO MATOS DUARTE,SUPERVISOR OPERACIONAL I,CDD CONSELHEIRO PENA          ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+728,663,ZILENA DINIZ SILVA DE JESUS,SUPERVISOR OPERACIONAL II,CDD CONTAGEM                  ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+729,663,MARCELO HEBERT ESTEVES SOARES,SUPERVISOR OPERACIONAL II,CDD CONTAGEM                  ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+730,663,SINVAL RODRIGUES DOS SANTOS,SUPERVISOR OPERACIONAL II,CDD CONTAGEM                  ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+731,608,EDSON JOSE COSTA,SUPERVISOR OPERACIONAL I,CDD CORONEL FABRICIANO        ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+732,608,HENRIQUE CARLOS KRUSEMARK,SUPERVISOR OPERACIONAL I,CDD CORONEL FABRICIANO        ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+733,609,FABRICIANO ANDRADE FERREIRA,SUPERVISOR OPERACIONAL I,CDD CURVELO                   ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+734,609,DIEGO JOSE GONCALVES ALVES,SUPERVISOR OPERACIONAL I,CDD CURVELO                   ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+735,610,IVANILDO ANTONIO BRAZ,SUPERVISOR OPERACIONAL I,CDD DIAMANTINA                ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+736,611,KESLEY MORAES SILVA,SUPERVISOR OPERACIONAL I,CDD DIVINOPOLIS               ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+737,611,GUSTAVO SANTOS CARVALHO,SUPERVISOR OPERACIONAL I,CDD DIVINOPOLIS               ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+738,612,GUSTAVO OLIVEIRA PEREIRA,SUPERVISOR OPERACIONAL III,CDD DIVINOPOLIS NORTE         ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+739,612,RENATO APARECIDO CANDIDO,SUPERVISOR OPERACIONAL III,CDD DIVINOPOLIS NORTE         ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+740,612,RICARDO RODRIGUES TORRES,SUPERVISOR OPERACIONAL III,CDD DIVINOPOLIS NORTE         ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+741,612,BRUNNA LAIZ ALVES XAVIER,SUPERVISOR OPERACIONAL I,CDD ESMERALDAS                ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+742,614,ODILON GONCALVES RIBEIRO,SUPERVISOR OPERACIONAL I,CDD EXTREMA                   ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+743,615,ARLEI FARIA,SUPERVISOR OPERACIONAL I,CDD FORMIGA                   ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+744,615,WARLEY LOURENCO DE SOUSA,SUPERVISOR OPERACIONAL I,CDD FORMIGA                   ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+745,616,EDUARDO FRANCISCO ROSA,SUPERVISOR OPERACIONAL I,CDD FRUTAL                    ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+746,617,TARCISIO DA COSTA SAMPAIO,SUPERVISOR OPERACIONAL I,CDD GOV VALADARES CENTRO      ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+747,617,DEMETRIOS SALES CAMARGOS,SUPERVISOR OPERACIONAL I,CDD GOV VALADARES CENTRO      ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+748,618,SANDRO JOSE DA SILVA,SUPERVISOR OPERACIONAL I,CDD GOVERNADOR VALADARES      ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+749,618,NEUZA SANTOS DE ARAUJO,SUPERVISOR OPERACIONAL I,CDD GOVERNADOR VALADARES      ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+750,620,FRANKLIN ARLEN NUNES DA COSTA,SUPERVISOR OPERACIONAL I,CDD GUANHAES                  ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+751,621,VANDER JOSE DEL VALE PIZA,SUPERVISOR OPERACIONAL I,CDD GUAXUPE                   ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+752,622,RONALDO SOARES,SUPERVISOR OPERACIONAL I,CDD IGARAPE                   ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+753,622,EDNILSON DE OLIVEIRA RODRIGUES,SUPERVISOR OPERACIONAL I,CDD IGARAPE                   ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+754,623,VIVIANE DIAS ALVES,SUPERVISOR OPERACIONAL I,CDD INTENDENTE CAMARA         ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+755,623,DEBORA BARRETO DOS SANTOS SCHNEIDER,SUPERVISOR OPERACIONAL I,CDD INTENDENTE CAMARA         ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+756,624,ANGELA DRUMOND,SUPERVISOR OPERACIONAL I,CDD IPATINGA                  ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+757,624,DIOGENES BATISTA DA SILVA AGUIAR,SUPERVISOR OPERACIONAL I,CDD IPATINGA                  ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+758,625,HELIAS JOSE DOS SANTOS,SUPERVISOR OPERACIONAL I,CDD ITABIRA                   ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+759,625,ALEX FERREIRA CARVALHO,SUPERVISOR OPERACIONAL I,CDD ITABIRA                   ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+760,626,ANTONIO RODRIGUES PEDROSA,SUPERVISOR OPERACIONAL I,CDD ITABIRITO                 ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+761,626,ARLINDO DAS MERCES SABINO,SUPERVISOR OPERACIONAL I,CDD ITABIRITO                 ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+762,627,PEDRO BENEDITO SIMAO JUNIOR,SUPERVISOR OPERACIONAL I,CDD ITAJUBA                   ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+763,628,IVIA RENATA CORREA LUCAS DA SILVA,SUPERVISOR OPERACIONAL I,CDD ITAUNA                    ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+764,628,RICARDO FERREIRA DOS SANTOS,SUPERVISOR OPERACIONAL I,CDD ITAUNA                    ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+765,629,LUIZ PAULO BOAVENTURA GONCALVES,SUPERVISOR OPERACIONAL I,CDD ITUIUTABA                 ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+766,630,DENER ROCHA DOS SANTOS,SUPERVISOR OPERACIONAL I,CDD ITURAMA                   ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+767,631,AYDDISON DENNER SANTOS,SUPERVISOR OPERACIONAL I,CDD JANAUBA                   ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+768,631,KLEBER DAVID SANTANA,SUPERVISOR OPERACIONAL I,CDD JANAUBA                   ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+769,632,CLEVERSON MARTINS LOURENCO,SUPERVISOR OPERACIONAL I,CDD JANUARIA                  ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+770,632,ILSON ALVES OLIVEIRA,SUPERVISOR OPERACIONAL I,CDD JANUARIA                  ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+771,633,HAMILTON JOSE FERREIRA,SUPERVISOR OPERACIONAL I,CDD JOAO MONLEVADE            ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+772,634,ILDERLEY LIMA SOUZA,SUPERVISOR OPERACIONAL II,CDD JUIZ DE FORA              ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+773,634,ALEXANDRE DELGADO SALES NOGUEIRA,SUPERVISOR OPERACIONAL II,CDD JUIZ DE FORA              ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+774,634,THARCISIO HONORIO DOS SANTOS,SUPERVISOR OPERACIONAL II,CDD JUIZ DE FORA              ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+775,635,MARCELO HENRIQUE MATTOSO SILVA,SUPERVISOR OPERACIONAL III,CDD JUIZ DE FORA LESTE        ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+776,635,JOSE TADEU RODRIGUES GODINHO,SUPERVISOR OPERACIONAL III,CDD JUIZ DE FORA LESTE        ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+777,635,PAULO ROBERTO MEZADRI DE AZEVEDO,SUPERVISOR OPERACIONAL III,CDD JUIZ DE FORA LESTE        ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+778,636,JULIO CESAR FREITAS MAGDALENA,SUPERVISOR OPERACIONAL II,CDD JUIZ DE FORA NORTE        ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+779,636,WAGNER LUIZ FILGUEIRAS BATISTA DOS REIS,SUPERVISOR OPERACIONAL II,CDD JUIZ DE FORA NORTE        ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+780,636,LEANDRO CLEMENTE BRITES,SUPERVISOR OPERACIONAL II,CDD JUIZ DE FORA NORTE        ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+781,636,FRANCISCO ANTONIO DA SILVA,SUPERVISOR OPERACIONAL II,CDD JUIZ DE FORA NORTE        ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+782,662,GILSON CESAR DA ROCHA,SUPERVISOR OPERACIONAL II,CDD JUSTINOPOLIS              ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+783,662,KATHIA MILLENY DA SILVA SANTOS,SUPERVISOR OPERACIONAL II,CDD JUSTINOPOLIS              ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+784,638,RICARDO TEIXEIRA VIANNA,SUPERVISOR OPERACIONAL I,CDD LAGOA SANTA               ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+785,638,CARLOS ALBERTO GONCALVES NOGUEIRA,SUPERVISOR OPERACIONAL I,CDD LAGOA SANTA               ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+786,639,VALDINEI OLIVEIRA MINAS,SUPERVISOR OPERACIONAL II,CDD LAVRAS                    ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+787,639,MOISES RODRIGUES DA PEDRA,SUPERVISOR OPERACIONAL II,CDD LAVRAS                    ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+788,641,VICENTE SILVA FERRAZ JUNIOR,SUPERVISOR OPERACIONAL I,CDD MANHUACU                  ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+789,642,HELIO EUSTAQUIO VIEIRA FILHO,SUPERVISOR OPERACIONAL I,CDD MATOZINHOS                ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+790,643,GISELE VIVIANE OLIVEIRA DO NASCIMENTO,SUPERVISOR OPERACIONAL I,CDD MONTES CLAROS             ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+791,643,FABIANA PEREIRA SANTOS MARANHAO,SUPERVISOR OPERACIONAL I,CDD MONTES CLAROS             ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+792,644,ROSANGELA ARAUJO COSTA,SUPERVISOR OPERACIONAL I,CDD MONTES CLAROS SUL         ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+793,644,RAQUEL RIBEIRO DE SOUZA,SUPERVISOR OPERACIONAL I,CDD MONTES CLAROS SUL         ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+794,647,MARYLAND BARBOSA DE PAULA BARROSO,SUPERVISOR OPERACIONAL I,CDD MURIAE                    ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+795,647,JOSE MAURICIO DA SILVA,SUPERVISOR OPERACIONAL I,CDD MURIAE                    ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+796,647,EDVALDO FERRAZ GOMES,SUPERVISOR OPERACIONAL I,CDD NANUQUE                   ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+797,589,GLEISON ANGELO SALGADO,SUPERVISOR OPERACIONAL II,CDD NOVA LIMA                 ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+798,589,CLAUDIA FRANCISCA DE OLIVEIRA,SUPERVISOR OPERACIONAL II,CDD NOVA LIMA                 ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+799,589,CARLOS MARINHO PEREIRA,SUPERVISOR OPERACIONAL II,CDD NOVA LIMA                 ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+800,657,JOSE PAULO DE BESSA,SUPERVISOR OPERACIONAL II,CDD NOVA SERRANA              ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+801,657,ISAIAS JOSE DA SILVA,SUPERVISOR OPERACIONAL II,CDD NOVA SERRANA              ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+802,600,ENER SANDRO CORREIA ROSA,SUPERVISOR OPERACIONAL I,CDD NOVO PROGRESSO            ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+803,600,SELMA VICENTE DE SOUSA FERREIRA,SUPERVISOR OPERACIONAL I,CDD NOVO PROGRESSO            ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+804,649,TOBIAS THOMAZ DE OLIVEIRA,SUPERVISOR OPERACIONAL I,CDD OURO FINO                 ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+805,650,ANDRE EFIGENIO MARQUES DOS REIS,SUPERVISOR OPERACIONAL I,CDD OURO PRETO                ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+806,650,LUIZ FERNANDO RIBEIRO,SUPERVISOR OPERACIONAL I,CDD OURO PRETO                ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+807,651,ALEX FRANCO MENDONCA DE OLIVEIRA,SUPERVISOR OPERACIONAL I,CDD PARA DE MINAS             ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+808,651,ANTONIO CARLOS CORREA SAMPAIO,SUPERVISOR OPERACIONAL I,CDD PARA DE MINAS             ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+809,652,EDUARDO VINICIUS SILVA,SUPERVISOR OPERACIONAL I,CDD PARACATU                  ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+810,648,DENES GERALDO DE SOUZA,COORDENADOR/UO,CDD PARQUE INDUSTRIAL         ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+811,648,MARCELO SANTOS DA SILVA,SUPERVISOR OPERACIONAL III,CDD PARQUE INDUSTRIAL         ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+812,648,RAQUEL SILVA DA ROCHA,SUPERVISOR OPERACIONAL III,CDD PARQUE INDUSTRIAL         ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+813,648,LUDIMILA ARAUJO RAMOS,SUPERVISOR OPERACIONAL III,CDD PARQUE INDUSTRIAL         ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+814,648,LUCAS TIAGO DA SILVEIRA,SUPERVISOR OPERACIONAL III,CDD PARQUE INDUSTRIAL         ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+815,653,EDUARDO BARBOSA D ALESSANDRO,SUPERVISOR DE OPERACOES/DR,CDD PASSOS                    ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+816,653,SAULO EMENEGILDO DE ANDRADE,SUPERVISOR OPERACIONAL I,CDD PASSOS                    ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+817,653,OSVALDO LEANDRO GONCALVES DO CARMO,SUPERVISOR OPERACIONAL I,CDD PASSOS                    ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+818,654,PAULO HENRIQUE DOS REIS,SUPERVISOR OPERACIONAL II,CDD PATOS DE MINAS            ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+819,654,RODRIGO NASCIMENTO LOPES,SUPERVISOR OPERACIONAL II,CDD PATOS DE MINAS            ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+820,654,JEFFERSON PEREIRA MELO,SUPERVISOR OPERACIONAL II,CDD PATOS DE MINAS            ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+821,655,FLAVIO JOSE DIAS,SUPERVISOR OPERACIONAL I,CDD PATROCINIO                ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+822,656,CASSIO CAMPOS LESSA,SUPERVISOR OPERACIONAL I,CDD PEDRO LEOPOLDO            ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+823,656,WANDERLEI TORRENTES,SUPERVISOR OPERACIONAL I,CDD PEDRO LEOPOLDO            ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+824,658,CINTIA REGINA DOS SANTOS,SUPERVISOR OPERACIONAL I,CDD PIRAPORA                  ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+825,659,ANDRE LUIZ MARCACINI,SUPERVISOR OPERACIONAL II,CDD POCOS DE CALDAS           ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+826,659,JAIME VALERIO ERNESTO,SUPERVISOR OPERACIONAL II,CDD POCOS DE CALDAS           ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+827,659,MESSIAS VILELA,SUPERVISOR OPERACIONAL II,CDD POCOS DE CALDAS           ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+828,660,AFONSO MARIA GONCALVES,SUPERVISOR OPERACIONAL I,CDD PONTE NOVA                ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+829,660,ALOISIO AUGUSTO GONCALVES,SUPERVISOR OPERACIONAL I,CDD PONTE NOVA                ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+830,661,FRANCYSLAINE SANTOS SILVEIRA,SUPERVISOR OPERACIONAL II,CDD POUSO ALEGRE              ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+831,661,RICARDO DE OLIVEIRA,SUPERVISOR OPERACIONAL II,CDD POUSO ALEGRE              ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+832,661,RENAN RIBEIRO,SUPERVISOR OPERACIONAL II,CDD POUSO ALEGRE              ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+833,562,JACQUELINE SOUZA DE FREITAS MEDEIROS,SUPERVISOR OPERACIONAL II,CDD RIBEIRAO DAS NEVES        ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+834,562,EDUARDO FELIX DE ALMEIDA,SUPERVISOR OPERACIONAL II,CDD RIBEIRAO DAS NEVES        ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+835,664,HELENA DIAS DA CONCEICAO,SUPERVISOR OPERACIONAL I,CDD SABARA                    ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+836,665,CLAUDIRENE OLIVEIRA CUNHA CELESTINO,SUPERVISOR OPERACIONAL I,CDD SALINAS                   ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+837,666,MURILO DE PAIVA,SUPERVISOR OPERACIONAL I,CDD SANTA LUZIA               ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+838,666,JOAO ALBERTO BRUNO DE SOUZA LOPES,SUPERVISOR OPERACIONAL I,CDD SANTA LUZIA               ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+839,668,EVALDO DE MORAIS,SUPERVISOR OPERACIONAL I,CDD SANTA RITA DO SAPUCAI     ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+840,670,ADRIANA PAULA NARDY,SUPERVISOR OPERACIONAL I,CDD SANTOS DUMONT             ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+841,667,CLAUDINEI ANTONIO DE ALCANTARA,SUPERVISOR OPERACIONAL I,CDD SAO BENEDITO              ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+842,667,GUILHERME HENRIQUE DE SOUSA,SUPERVISOR OPERACIONAL I,CDD SAO BENEDITO              ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+843,671,ALBERTO AMARAL OLIVEIRA,SUPERVISOR OPERACIONAL I,CDD SAO FRANCISCO             ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+844,673,JEFFERSON DE OLIVEIRA GOMES,SUPERVISOR OPERACIONAL I,CDD SAO JOAO DEL REI          ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+845,674,ADILSON DA SILVA PAULA,SUPERVISOR OPERACIONAL I,CDD SAO LOURENCO              ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+846,675,LUCIANO MARTINS PIMENTA,SUPERVISOR OPERACIONAL I,CDD SAO SEBASTIAO DO PARAISO  ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+847,613,GILCELIO BARBOSA,SUPERVISOR OPERACIONAL I,CDD SETE LAGOAS               ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+848,613,VITOR LEONARDO COELHO LEITE,SUPERVISOR OPERACIONAL I,CDD SETE LAGOAS               ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+849,613,DIONEY LAZARO GONCALVES BORBA,SUPERVISOR OPERACIONAL I,CDD SETE LAGOAS               ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+850,676,MANOEL ALMEIDA ROCHA JUNIOR,SUPERVISOR OPERACIONAL II,CDD SETE LAGOAS NORTE         ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+851,676,LUCIO FABIO MARINHO,SUPERVISOR OPERACIONAL II,CDD SETE LAGOAS NORTE         ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+852,676,SILMARA APARECIDA PIMENTEL,SUPERVISOR OPERACIONAL II,CDD SETE LAGOAS NORTE         ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+853,677,ANDRE LUIZ ESTEVES CARDOSO,SUPERVISOR OPERACIONAL II,CDD TEOFILO OTONI             ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+854,677,VANDERLEIA GONCALVES LUIZ TAVARES,SUPERVISOR OPERACIONAL II,CDD TEOFILO OTONI             ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+855,677,HIGOR ARRUDA CERQUEIRA,SUPERVISOR OPERACIONAL II,CDD TEOFILO OTONI             ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+856,677,SUZAMARA DE SOUZA MOURA,SUPERVISOR OPERACIONAL II,CDD TEOFILO OTONI             ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+857,678,JUSCIMAR SENRA DO NASCIMENTO,SUPERVISOR OPERACIONAL I,CDD TIMOTEO                   ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+858,678,MAURICIO ROGERIO CAMPOS,SUPERVISOR OPERACIONAL I,CDD TIMOTEO                   ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+859,679,QUENIA CRISTINA AMANCIO BORGES,SUPERVISOR OPERACIONAL I,CDD TRES CORACOES             ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+860,680,DANTE CARLOS SCALIONI,SUPERVISOR OPERACIONAL I,CDD TRES PONTAS               ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+861,681,GILCIMAR ADEILDO DO CARMO,SUPERVISOR OPERACIONAL I,CDD UBA                       ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+862,682,SERGIO LUCIO MACEDO,SUPERVISOR OPERACIONAL II,CDD UBERABA                   ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+863,682,EMAR GOMES DA SILVA,SUPERVISOR OPERACIONAL II,CDD UBERABA                   ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+864,682,JULIANA MARTINS DA COSTA,SUPERVISOR OPERACIONAL II,CDD UBERABA                   ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+865,683,ROGERIO LUIS GARCIA DA SILVA,SUPERVISOR OPERACIONAL II,CDD UBERABA SUL               ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+866,683,SONIA MARIA DE SALES,SUPERVISOR OPERACIONAL II,CDD UBERABA SUL               ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+867,683,DIEGO VALMIRO MARTINS FARIA,SUPERVISOR OPERACIONAL II,CDD UBERABA SUL               ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+868,685,EZIO APARECIDO SOUZA SILVA,SUPERVISOR OPERACIONAL I,CDD UBERLANDIA                ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+869,686,LUCIANO CARDOSO DE MEDEIROS,SUPERVISOR OPERACIONAL III,CDD UBERLANDIA LESTE          ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+870,686,WILLIAM DOUGLAS SILVA DAVI,SUPERVISOR OPERACIONAL III,CDD UBERLANDIA LESTE          ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+871,686,ALCINO MILTON VARGAS,SUPERVISOR OPERACIONAL III,CDD UBERLANDIA LESTE          ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+872,687,FRANCISCO JANE DOS SANTOS PACIENCIA,SUPERVISOR OPERACIONAL I,CDD UBERLANDIA NORTE          ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+873,687,JUNIO CESAR DA SILVA,SUPERVISOR OPERACIONAL I,CDD UBERLANDIA NORTE          ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+874,688,WELLINGTON DA COSTA,SUPERVISOR OPERACIONAL III,CDD UBERLANDIA OESTE          ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+875,688,LUIZ PAULO DA SILVA,SUPERVISOR OPERACIONAL III,CDD UBERLANDIA OESTE          ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+876,688,LUCAS CESAR DE OLIVEIRA,SUPERVISOR OPERACIONAL III,CDD UBERLANDIA OESTE          ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+877,692,CRISTIANO FERNANDO EURIPEDES DOS SANTOS BASTOS,SUPERVISOR OPERACIONAL I,CDD UNAI                      ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+878,693,FRANCINE DAMASCENO,SUPERVISOR OPERACIONAL I,CDD VARGINHA                  ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+879,697,ANDERSON RODRIGO DA SILVA,SUPERVISOR OPERACIONAL II,CDD VESPASIANO                ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+880,697,MARCELO ALEXANDRE DE FARIA GONCALVES,SUPERVISOR OPERACIONAL II,CDD VESPASIANO                ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+881,581,MARCELO MENDES FREITAS,COORDENADOR - CDIP,CDIP BELO HORIZONTE           ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+882,581,APARECIDA DAS DORES SILVA CHAVES,COORDENADOR - CDIP,CDIP BELO HORIZONTE           ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+883,581,LORENA SANTOS MOURA MELO,COORDENADOR - CDIP,CDIP BELO HORIZONTE           ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+884,581,DANIEL TORRES DA PAIXAO,COORDENADOR - CDIP,CDIP BELO HORIZONTE           ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+885,581,REINALDO ADRIANO ALVES,COORDENADOR - CDIP,CDIP BELO HORIZONTE           ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+886,581,FILIPE TOLEDO ACHILLES REZENDE,COORDENADOR - CDIP,CDIP BELO HORIZONTE           ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+887,583,MARCOS SILVA FERREIRA ARAUJO,SUPERVISOR OPERACIONAL III,CEE BELO HORIZONTE            ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+888,583,MARCUS VINICIUS GOMES,SUPERVISOR OPERACIONAL III,CEE BELO HORIZONTE            ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+889,583,CHRISTIANO DUTRA TAVARES,SUPERVISOR OPERACIONAL III,CEE BELO HORIZONTE            ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+890,583,CARLA MARA TOLEDO,SUPERVISOR OPERACIONAL III,CEE BELO HORIZONTE            ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+891,583,ROBERTO CEZAR ALBINO FROIS,SUPERVISOR OPERACIONAL III,CEE BELO HORIZONTE            ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+892,583,TONNY JUNIO BONFIM DOS REIS,SUPERVISOR OPERACIONAL III,CEE BELO HORIZONTE            ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+893,619,OZANON HENRIQUES DE SOUZA,SUPERVISOR OPERACIONAL I,CEE GOVERNADOR VALADARES      ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+894,619,MADSON WILLIAN CLAUDINO DA CUNHA,SUPERVISOR OPERACIONAL I,CEE GOVERNADOR VALADARES      ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+895,619,AURELINO RODRIGUES NETO,SUPERVISOR OPERACIONAL I,CEE GOVERNADOR VALADARES      ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+896,645,WALTER ALEY ABREU DE SOUZA,SUPERVISOR OPERACIONAL III,CEE MONTES CLAROS             ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+897,645,OSWALDO MARQUES VELLOSO DA SILVA JUNIOR,SUPERVISOR OPERACIONAL III,CEE MONTES CLAROS             ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+898,645,CLAUDIA INEZ SOARES MENDES,SUPERVISOR OPERACIONAL III,CEE MONTES CLAROS             ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+899,584,VITOR ALVES FERNANDES,SUPERVISOR OPERACIONAL III,CEE PAMPULHA                  ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+900,584,DANIEL SALES GOULART,SUPERVISOR OPERACIONAL III,CEE PAMPULHA                  ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+901,584,ELIAS JEFFERSON RIBEIRO,SUPERVISOR OPERACIONAL III,CEE PAMPULHA                  ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+902,584,WANDERSON PERES DA COSTA,SUPERVISOR OPERACIONAL III,CEE PAMPULHA                  ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+903,689,JOSE DONIZETE GONCALVES DE FARIA,SUPERVISOR OPERACIONAL I,CEE UBERLANDIA                ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+904,689,ROGERIO NARCISO DA SILVA,SUPERVISOR OPERACIONAL I,CEE UBERLANDIA                ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+905,669,ALOIZIO TOMAS CARVALHO,SUPERVISOR OPERACIONAL I,CEE VALE DO ACO               ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+906,669,DIEGO FRANCISCO THIMOTHEO DE PINHO,SUPERVISOR OPERACIONAL I,CEE VALE DO ACO               ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+907,669,DERCY GOMES DE OLIVEIRA,SUPERVISOR OPERACIONAL I,CEE VALE DO ACO               ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+908,694,JOSE PEREIRA DA SILVA NETO,SUPERVISOR OPERACIONAL I,CEE VARGINHA                  ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+909,602,GILMAR RODRIGUES GOMES,SUPERVISOR OPERACIONAL III,CEE VIA EXPRESSA              ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+910,602,GIOVANNI FERREIRA MOREIRA,SUPERVISOR OPERACIONAL III,CEE VIA EXPRESSA              ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+911,602,ARLEI EDUARDO PEREIRA,SUPERVISOR OPERACIONAL III,CEE VIA EXPRESSA              ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+912,602,ALISON JONATHAN GONCALVES DA SILVA,SUPERVISOR OPERACIONAL III,CEE VIA EXPRESSA              ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+913,585,JOAO MENDES DA SILVA,COORD. PLANEJ. LOGISTICA INTEGRADA II,CLI ARMAZEM DE RECURSOS       ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+914,585,ANA LUCIA DE OLIVEIRA FARIA,COORD. PLANEJ. LOGISTICA INTEGRADA II,CLI ARMAZEM DE RECURSOS       ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+915,585,VANDER PEREIRA DA SILVA,COORDENADOR/UO,CLI ARMAZEM DE RECURSOS       ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+916,603,FERNANDA LUDMIRA MARTINS ANACLETO,SUPERVISOR OPERACIONAL III,CLI BELO HORIZONTE/DR/MG      ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+917,603,MATHEUS FELIPE GREGORIO DE SOUZA,SUPERVISOR OPERACIONAL III,CLI BELO HORIZONTE/DR/MG      ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+918,603,LUIZ HENRIQUE DOS SANTOS DIOGO,SUPERVISOR OPERACIONAL III,CLI BELO HORIZONTE/DR/MG      ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+919,604,EVERTON ALVES DE MORAIS,SUPERVISOR OPERACIONAL III,CLI CONTAGEM                  ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+920,604,EFIGENIO MARCELO DE OLIVEIRA,SUPERVISOR OPERACIONAL III,CLI CONTAGEM                  ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+921,604,DENIS JUNIO BOY DA COSTA,SUPERVISOR OPERACIONAL III,CLI CONTAGEM                  ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+922,586,SHIRLEI HELOIZA RIOS JERONIMO,SUPERVISOR OPERACIONAL II,CLI INDAIA                    ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+923,606,MARCO ANTONIO SOUSA DE ALMEIDA,SUPERVISOR OPERACIONAL III,CLI SMS CONTAGEM              ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+924,606,ALINE CRISTINA GONCALVES,SUPERVISOR OPERACIONAL III,CLI SMS CONTAGEM              ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+925,607,VAGNER OLIVEIRA DA SILVA,SUPERVISOR OPERACIONAL III,CLI TAPERA                    ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+926,607,JAQUELINE VENANCIO VIEIRA,SUPERVISOR OPERACIONAL III,CLI TAPERA                    ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+927,134,MONICA DA CONSOLACAO GONCALVES GOMES,CHEFE CENTRO SERV TELEMAT I,CST BELO HORIZONTE            ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+928,927,ADELMO SETIMO PEDRO,SUPERVISOR OPERACIONAL I,CST BELO HORIZONTE            ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+929,319,FABIANO ALVES DOS SANTOS,COORDENADOR/UO,CTCE BELO HORIZONTE/GCCAP     ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+930,343,HELEN LIMA DE OLIVEIRA,COORDENADOR/UO,CTCE BELO HORIZONTE/GTURN1    ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+931,366,JOSE PAULO LINO DE SOUZA,COORDENADOR/UO,CTCE BELO HORIZONTE/GTURN2    ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+932,366,LUIZ FERNANDO PADILHA ALVES,COORDENADOR/UO,CTCE BELO HORIZONTE/GTURN2    ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+933,401,RINALDO SILVA PEREIRA,COORDENADOR/UO,CTCE BELO HORIZONTE/GTURN3    ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+934,401,ADRIANO JUNIO ALVES MENDES,COORDENADOR/UO,CTCE BELO HORIZONTE/GTURN3    ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+935,449,RICARDO DA SILVA LIBERATO,COORDENADOR/UO,CTCE CONTAGEM/GTURN1          ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+936,474,RONAN PEREIRA DOS REIS,COORDENADOR/UO,CTCE CONTAGEM/GTURN2          ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+937,474,GUILHERME HENRIQUE FREIRE ALVES DE OLIVEIRA,COORDENADOR/UO,CTCE CONTAGEM/GTURN2          ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+938,691,FLAVIO ADRIANO SIMAO,COORDENADOR/UO,CTCE UBERLANDIA               ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+939,691,SIMAR JOSE DA SILVA,COORDENADOR/UO,CTCE UBERLANDIA               ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+940,691,WILLIAM BARBOSA DE ANDRADE,COORDENADOR/UO,CTCE UBERLANDIA               ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+941,691,ELISANGELA MARIA RIBEIRO FERNANDES,COORDENADOR/UO,CTCE UBERLANDIA               ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+942,691,ROGERIO CARDOSO DA SILVA,COORDENADOR/UO,CTCE UBERLANDIA               ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+943,691,GERUSA LUCIA VIEIRA COSTA,CHEFE DE SECAO,CTCE UBERLANDIA/SEAO          ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+944,696,EDSON MIRA LEMES,COORDENADOR/UO,CTCE VARGINHA                 ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+945,696,ROMERIO FERREIRA DA SILVA JUNIOR,COORDENADOR/UO,CTCE VARGINHA                 ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+946,696,ALEX HUMBERTO FLAUSINO,COORDENADOR/UO,CTCE VARGINHA                 ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+947,696,ADIRSON ADRIANO DE SOUZA,COORDENADOR/UO,CTCE VARGINHA                 ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+948,696,JULIO CESAR DE SOUZA CARVALHO,CHEFE DE SECAO,CTCE VARGINHA/SEAO            ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+949,587,ELIANE PATRICIA DA SILVA WOLLNY,COORDENADOR/UO,CTO BELO HORIZONTE            ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+950,587,EDUARDO DE OLIVEIRA REIS,COORDENADOR/UO,CTO BELO HORIZONTE            ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+951,587,ANTONIO ELMERINDO FRADE,COORDENADOR/UO,CTO BELO HORIZONTE            ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+952,587,GEORGTON LUIZ DE SOUZA,COORDENADOR/UO,CTO BELO HORIZONTE            ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+953,587,ALEXANDRO FRANCISCO PEREIRA,COORDENADOR/UO,CTO BELO HORIZONTE            ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+954,587,BERTON PEREIRA PEGO,COORDENADOR/UO,CTO BELO HORIZONTE            ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+955,587,RONALDO LUIZ LOPES,COORDENADOR/UO,CTO BELO HORIZONTE            ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+956,587,FLAVIO DUARTE DE MORAES,COORDENADOR/UO,CTO BELO HORIZONTE            ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+957,587,ADENILSON LEVINDO ROSA,COORDENADOR/UO,CTO BELO HORIZONTE            ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+958,587,IVAN DE ALENCAR E CASTRO BAINHA,COORDENADOR/UO,CTO BELO HORIZONTE            ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+959,587,SILVIO FERNANDO FERREIRA MARTINS,COORDENADOR/UO,CTO BELO HORIZONTE            ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+960,587,TATIANA APARECIDA ALVES NOGUEIRA,COORDENADOR/UO,CTO BELO HORIZONTE            ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+961,587,FABRICIA ANDRADE LUCIANO DOS SANTOS,COORDENADOR/UO,CTO BELO HORIZONTE            ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+962,587,WEVERSON EDUARDO DE SOUZA,COORDENADOR/UO,CTO BELO HORIZONTE            ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+963,587,JOSIANE DA SILVA COELHO,COORDENADOR/UO,CTO BELO HORIZONTE            ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+964,587,PAULA CRISTINA DOS SANTOS,COORDENADOR/UO,CTO BELO HORIZONTE            ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+965,587,BRENDA FRANCINI RUMAO DIAS,COORDENADOR/UO,CTO BELO HORIZONTE            ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+966,637,CARLOS ALBERTO DOS SANTOS,COORDENADOR/UO,CTO JUIZ DE FORA              ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+967,637,LUCIO MAURO RODRIGUES DO NASCIMENTO,COORDENADOR/UO,CTO JUIZ DE FORA              ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+968,637,DANIELA SILVEIRA DA SILVA,COORDENADOR/UO,CTO JUIZ DE FORA              ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+969,637,CARLOS ALEXANDRE MORENO,COORDENADOR/UO,CTO JUIZ DE FORA              ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+970,637,JESSICA EMILIA PINTO CARVALHO LANDEIRA,COORDENADOR/UO,CTO JUIZ DE FORA              ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+971,684,REGINALDO RODRIGUES BESSA,COORDENADOR/UO,CTO UBERABA                   ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+972,684,WILSON JOSE DA SILVA JUNIOR,COORDENADOR/UO,CTO UBERABA                   ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+973,684,RODRIGO PAIVA GUIMARAES,COORDENADOR/UO,CTO UBERABA                   ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+974,684,GENIVAL DE JESUS LEITE,COORDENADOR/UO,CTO UBERABA                   ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+975,684,SERGIO HUMBERTO MARTINS DE RESENDE,COORDENADOR/UO,CTO UBERABA                   ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
+976,684,MARCELLA APARECIDA ALVES MENDONCA,COORDENADOR/UO,CTO UBERABA                   ,https://raw.githubusercontent.com/feduardo/WS_noticiasGoverno/main/usuario.jpg
